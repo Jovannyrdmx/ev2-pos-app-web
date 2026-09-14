@@ -2,7 +2,7 @@
 
 Proyecto independiente para EV2 Clandestino. No usa ni modifica el proyecto existente de `ev2.system`.
 
-## Qué funciona en esta base MVP
+## Qué incluye esta versión de desarrollo
 
 - Registro por correo/teléfono y contraseña; roles de cliente y personal.
 - Eventos, mapa de zonas disponible/reservada, reservas con tolerancia de tres horas, productos y créditos incluidos.
@@ -13,6 +13,10 @@ Proyecto independiente para EV2 Clandestino. No usa ni modifica el proyecto exis
 - Inventario de almacén y ambas barras, con movimientos auditables y descuento automático de recetas por mililitros y unidades físicas (`1 oz = 30 ml`).
 - Flirty: solo usuarios visibles, regalo pagado, aceptación/rechazo sin reembolso.
 - Tipo de cambio administrable por evento, redondeado hacia abajo.
+- Panel de reservas del titular con accesos individuales firmados y reenviables; la recepción los invalida al primer escaneo válido.
+- Recuperación de contraseña con tokens de un uso. En producción requiere conectar el proveedor de correo o SMS; en desarrollo el token se devuelve únicamente para pruebas.
+- Gestión de oferta por zona/evento, asignación de meseros por zona, consulta de existencias, movimientos de almacén/barra y reporte operativo.
+- Flirty con visibilidad voluntaria, bloqueo y reporte. Un regalo permanece fuera de la cola de barra hasta que la persona lo acepte; si lo rechaza se cancela sin reembolso y se devuelve su receta al inventario de la barra.
 
 ## Antes de producción
 
@@ -28,17 +32,18 @@ La base es funcional, pero se deben completar estos datos operativos antes de ab
 ## Despliegue en Ubuntu 24.04 / Hostinger
 
 1. Crea el repositorio privado `ev2-pos-app-web` y sube esta carpeta. Sigue `GITHUB_UPLOAD.md`; no subas `.env`.
-2. En el VPS instala Docker Engine, Docker Compose plugin, Nginx y Certbot.
-3. Clona el repo en, por ejemplo, `/opt/ev2-pos-app-web`; copia `.env.example` a `.env`, define `POSTGRES_PASSWORD` y un `JWT_SECRET` aleatorio largo.
-4. Levanta los servicios con `docker compose up -d --build` y carga el catálogo/recetario/plano con `docker compose exec api node data/import-catalog.js`.
+2. En el VPS instala Docker Engine y Docker Compose plugin. El instalador `deploy.sh` no toca Nginx, certificados, DNS ni el proyecto ya activo en `ev2.system`.
+3. Clona el repo en, por ejemplo, `/opt/ev2-pos-app-web`, entra a la carpeta y ejecuta `chmod +x deploy.sh && ./deploy.sh`. En la primera ejecución crea un `.env` privado con una contraseña de PostgreSQL y secreto JWT aleatorios.
+4. Antes de aceptar pagos reales, edita solamente el `.env` del VPS y agrega las credenciales de producción de Mercado Pago. Nunca subas ese archivo a GitHub.
 5. En Hostinger crea los registros A para `app.ev2.system`, `pos.ev2.system` y `api.ev2.system` apuntando al VPS.
 6. Habilita `deploy/nginx-ev2.conf`, valida Nginx y emite SSL con Certbot para los tres subdominios.
 7. Comprueba `https://api.ev2.system/health` antes de abrir las interfaces.
 
-Si ya se creó la base antes de esta versión, aplica la migración de pagos una única vez:
+Si ya se creó la base antes de esta versión, aplica las migraciones una única vez y en orden:
 
 ```bash
 docker compose exec -T db psql -U ev2 -d ev2 < database/migrations/001_payments_and_reservations.sql
+docker compose exec -T db psql -U ev2 -d ev2 < database/migrations/002_operations.sql
 ```
 
 Los servicios se publican solo en `127.0.0.1`; Nginx es la única puerta pública. Esto mantiene separado el proyecto existente del dominio principal.
@@ -50,3 +55,7 @@ Los servicios se publican solo en `127.0.0.1`; Nginx es la única puerta públic
 - Las operaciones críticas se registran en `audit_log` y los movimientos de inventario no se sobrescriben.
 - Para contingencias (teléfono sin batería), recepción debe buscar la reserva, validar INE y emitir un pase temporal de un solo uso desde un flujo administrativo autorizado.
 - Un menor o identificación inválida queda denegado; el titular puede reasignar un acceso no usado a otro adulto.
+
+## Límites antes de abrir al público
+
+El repositorio permite pruebas locales y de sandbox, pero un despliegue de producción requiere que el propietario configure y pruebe sus cuentas de Mercado Pago, SMTP o SMS y el DNS/HTTPS del VPS. Facebook e Instagram requieren aplicaciones Meta aprobadas: Instagram no ofrece un inicio de sesión genérico equivalente al correo para todos los consumidores, por lo que no debe activarse hasta validar el flujo permitido por Meta. También faltan las decisiones legales de aviso de privacidad, alcohol y facturación SAT; no son configuraciones que el código pueda asumir.
