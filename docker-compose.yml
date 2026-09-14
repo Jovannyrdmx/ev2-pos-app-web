@@ -1,0 +1,50 @@
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_DB: ev2
+      POSTGRES_USER: ev2
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?set-in-.env}
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+      - ./database/init.sql:/docker-entrypoint-initdb.d/01-init.sql:ro
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ev2 -d ev2"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+  api:
+    build:
+      context: .
+      dockerfile: api/Dockerfile
+    env_file: .env
+    environment:
+      DATABASE_URL: postgres://ev2:${POSTGRES_PASSWORD}@db:5432/ev2
+    depends_on:
+      db:
+        condition: service_healthy
+    ports:
+      - "127.0.0.1:3000:3000"
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:3000/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+  client:
+    image: nginx:1.27-alpine
+    volumes:
+      - ./client:/usr/share/nginx/html:ro
+    ports:
+      - "127.0.0.1:8080:80"
+    restart: unless-stopped
+  pos:
+    image: nginx:1.27-alpine
+    volumes:
+      - ./pos:/usr/share/nginx/html:ro
+    ports:
+      - "127.0.0.1:8081:80"
+    restart: unless-stopped
+volumes:
+  postgres-data:

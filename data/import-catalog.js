@@ -1,0 +1,11 @@
+import pg from 'pg';
+const db=new pg.Pool({connectionString:process.env.DATABASE_URL});
+import fs from 'node:fs';
+const source=JSON.parse(fs.readFileSync(new URL('ev2-catalog.json',import.meta.url),'utf8'));
+const floorplan=JSON.parse(fs.readFileSync(new URL('ev2-floorplan.json',import.meta.url),'utf8'));
+for(const p of source.products)await db.query("INSERT INTO products(sku,name,category,price_mxn,price_usd,unit,active) VALUES($1,$2,$3,$4,$5,$6,$7) ON CONFLICT(sku) DO UPDATE SET name=EXCLUDED.name,category=EXCLUDED.category,price_mxn=EXCLUDED.price_mxn,price_usd=EXCLUDED.price_usd,unit=EXCLUDED.unit,active=EXCLUDED.active",[p.sku,p.name,p.category,Number(p.price_mxn||0),p.price_usd?Number(p.price_usd):null,p.unit||'unit',p.active]);
+const bars=await db.query('SELECT id,name FROM bars'),barId=new Map(bars.rows.map(x=>[x.name,x.id]));
+for(const zone of floorplan.zones)await db.query("INSERT INTO zones(name,floor,bar_id,map_key,map_config,capacity,extra_capacity,base_price_mxn,reservable,active) VALUES($1,$2,$3,$4,$5,$6,$7,$8,$9,true) ON CONFLICT(map_key) DO UPDATE SET name=EXCLUDED.name,floor=EXCLUDED.floor,bar_id=EXCLUDED.bar_id,map_config=EXCLUDED.map_config,capacity=EXCLUDED.capacity,extra_capacity=EXCLUDED.extra_capacity,base_price_mxn=EXCLUDED.base_price_mxn,reservable=EXCLUDED.reservable,active=true",[zone.name,zone.floor,barId.get(zone.bar_key),zone.map_key,JSON.stringify(zone.map_config),zone.capacity,zone.extra_capacity||0,zone.base_price_mxn||0,zone.reservable!==false]);
+const ids=await db.query('SELECT id,sku FROM products'),productId=new Map(ids.rows.map(x=>[x.sku,x.id]));
+for(const r of source.recipes){const product=productId.get(r.product_sku),ingredient=productId.get(r.ingredient_sku);if(!product||!ingredient)throw Error(`Receta referencia SKU inexistente: ${r.product_sku} / ${r.ingredient_sku}`);await db.query('INSERT INTO recipes(product_id,ingredient_product_id,quantity,unit) VALUES($1,$2,$3,$4) ON CONFLICT(product_id,ingredient_product_id) DO UPDATE SET quantity=EXCLUDED.quantity,unit=EXCLUDED.unit',[product,ingredient,Number(r.quantity),r.unit]);}
+await db.end();console.log(`Importados ${source.products.length} productos, ${source.recipes.length} líneas de receta y ${floorplan.zones.length} zonas.`);

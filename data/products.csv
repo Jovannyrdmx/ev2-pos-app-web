@@ -1,0 +1,456 @@
+sku,name,category,price_mxn,price_usd,unit,active
+SALE-AZULITO-BARRA-LIBRE,"AZULITO (BARRA LIBRE)",access,0,,unit,false
+SALE-BICHOTA-BL,"BICHOTA BL",cocktail,0,,unit,false
+SALE-CAIPIRINA-BARRA-LIBRE,"CAIPIRIÑA (BARRA LIBRE)",access,0,,unit,false
+SALE-PALOMA-BARRA-LIBRE,"PALOMA (BARRA LIBRE)",access,0,,unit,false
+SALE-REY-MAMABICHO-BL,"REY MAMABICHO BL",cocktail,0,,unit,false
+SALE-SEX-ON-THE-BEACH-BARRA-LIBRE,"SEX ON THE BEACH (BARRA LIBRE)",access,0,,unit,false
+SALE-30-30-ANEJO,"30-30 AÑEJO",cocktail,2600,,unit,true
+SALE-30-30-BLANCO,"30-30 BLANCO",cocktail,1500,,unit,true
+SALE-30-30-CRISTALINO,"30-30 CRISTALINO",cocktail,3000,,unit,true
+SALE-30-30-REPOSADO,"30-30 REPOSADO",cocktail,1500,,unit,true
+SALE-ABSOLUT,"ABSOLUT",bottle,1250,,unit,true
+SALE-ABSOLUT-LIMON,"ABSOLUT LIMON",bottle,1250,,unit,true
+SALE-ABSOLUT-MANGO,"ABSOLUT MANGO",bottle,1250,,unit,true
+SALE-ABSOLUT-PERA,"ABSOLUT PERA",bottle,1250,,unit,true
+SALE-ABSOLUT-RASPBERRY,"ABSOLUT RASPBERRY",bottle,1250,,unit,true
+SALE-ABSOLUT-SANDIA,"ABSOLUT SANDIA",bottle,1250,,unit,true
+SALE-AZUL-MANGO,"AZUL MANGO",cocktail,1250,,unit,true
+SALE-BACARDI,"BACARDI",bottle,1250,,unit,true
+SALE-BACARDI-LIMON,"BACARDI LIMON",bottle,1250,,unit,true
+SALE-BACARDI-MANGO-CHILE,"BACARDI MANGO CHILE",bottle,1250,,unit,true
+SALE-BACARDI-RASPBERRY,"BACARDI RASPBERRY",bottle,1250,,unit,true
+SALE-BARULLO-SPICY-SANDIA,"BARULLO SPICY SANDIA",cocktail,1600,,unit,true
+SALE-BLACK-LABEL,"BLACK LABEL",bottle,2650,,unit,true
+SALE-BLUE-LABEL,"BLUE LABEL",bottle,13000,,unit,true
+SALE-BOMBAY,"BOMBAY",bottle,2000,,unit,true
+SALE-BUCHANANS-12,"BUCHANANS 12",bottle,2650,,unit,true
+SALE-BUCHANANS-18,"BUCHANANS 18",bottle,4000,,unit,true
+SALE-BUCHANANS-21,"BUCHANANS 21",bottle,13000,,unit,true
+SALE-BUCHANANS-MASTER,"BUCHANANS MASTER",bottle,3500,,unit,true
+SALE-BUCHANANS-PINA,"BUCHANANS PIÑA",bottle,3000,,unit,true
+SALE-CAPTAIN-MORGAN,"CAPTAIN MORGAN",cocktail,1250,,unit,true
+SALE-CHAMPAGNE-DE-LA-CASA,"CHAMPAGNE DE LA CASA",bottle,1250,,unit,true
+SALE-CLASE-AZUL-REPOSADO,"CLASE AZUL REPOSADO",bottle,11500,,unit,true
+SALE-DOM-PERIGNON,"DOM PERIGNON",bottle,15000,,unit,true
+SALE-DON-JULIO-1942,"DON JULIO 1942",bottle,7000,,unit,true
+SALE-DON-JULIO-70,"DON JULIO 70",bottle,3300,,unit,true
+SALE-DON-JULIO-BLANCO,"DON JULIO BLANCO",bottle,2000,,unit,true
+SALE-DON-JULIO-REPOSADO,"DON JULIO REPOSADO",bottle,2200,,unit,true
+SALE-DOUBLE-BLACK-LABEL,"DOUBLE BLACK LABEL",bottle,3000,,unit,true
+SALE-GRAN-MALO,"GRAN MALO",cocktail,1250,,unit,true
+SALE-GREY-GOOSE,"GREY GOOSE",bottle,2000,,unit,true
+SALE-HERRADURA-ULTRA,"HERRADURA ULTRA",cocktail,2200,,unit,true
+SALE-HPNOTIQ,"HPNOTIQ",cocktail,2000,,unit,true
+SALE-JACK-DANIELS,"JACK DANIELS",cocktail,2400,,unit,true
+SALE-JAGERMEISTER,"JAGERMEISTER",bottle,1700,,unit,true
+SALE-MAESTRO-TEQUILERO,"MAESTRO TEQUILERO",cocktail,3000,,unit,true
+SALE-MEZCAL-400-CONEJOS-JOVEN,"MEZCAL 400 CONEJOS JOVEN",bottle,1800,,unit,true
+SALE-MOET,"MOET",bottle,3500,,unit,true
+SALE-NUVO,"NUVO",bottle,2000,,unit,true
+SALE-RED-LABEL,"RED LABEL",bottle,1450,,unit,true
+SALE-SMIRNOFF-TAMARINDO,"SMIRNOFF TAMARINDO",cocktail,1250,,unit,true
+SALE-TEQUILA-1800,"TEQUILA 1800",bottle,2600,,unit,true
+SALE-TITOS,"TITOS",bottle,2000,,unit,true
+SALE-TORRES-10,"TORRES 10",bottle,1500,,unit,true
+SALE-CUB-MICHELOB-ULTRA,"CUB. MICHELOB ULTRA",beer,600,,unit,true
+SALE-CUB-TECATE-LIGHT-1-4,"CUB. TECATE LIGHT 1/4",beer,300,,unit,true
+SALE-CUB-TECATE-ROJA-1-4,"CUB. TECATE ROJA 1/4",beer,300,,unit,true
+SALE-MICHELADA-CLASICA,"MICHELADA CLASICA",cocktail,240,,unit,true
+SALE-MICHELADA-MANGO,"MICHELADA MANGO",cocktail,240,,unit,true
+SALE-MICHELADA-TAMARINDO,"MICHELADA TAMARINDO",cocktail,240,,unit,true
+SALE-MICHELOB-ULTRA,"MICHELOB ULTRA",beer,60,,unit,true
+SALE-TECATE-LIGHT-1-4,"TECATE LIGHT 1/4",beer,30,,unit,true
+SALE-TECATE-ROJA-1-4,"TECATE ROJA 1/4",beer,30,,unit,true
+SALE-BARRA-LIBRE,"BARRA LIBRE",access,480,,unit,true
+SALE-BOLETO-CORTESIA-COVER,"BOLETO CORTESÍA COVER",access,0,,unit,false
+SALE-COVER,"COVER",access,150,,unit,true
+SALE-COVER-50,"COVER 50",access,50,,unit,true
+SALE-COVER-S,"COVER S",access,100,,unit,true
+SALE-PASWORD,"PASWORD",access,0,,unit,false
+SALE-PULSERA,"PULSERA",access,100,,unit,true
+SALE-PULSERA-EXTRA-VIP,"PULSERA EXTRA VIP",access,100,,unit,true
+SALE-AMIGA-DATE-CUENTA,"AMIGA DATE CUENTA",cocktail,220,,unit,true
+SALE-AZULITO,"AZULITO",cocktail,220,,unit,true
+SALE-AZULITO-S-A,"AZULITO S/A",cocktail,110,,unit,true
+SALE-BACARDI-COCA-COLA,"BACARDI - COCA COLA",bottle,120,,unit,true
+SALE-BANANA-COLADA,"BANANA COLADA",cocktail,250,,unit,true
+SALE-BELLAKEO-TROPICAL,"BELLAKEO TROPICAL",cocktail,220,,unit,true
+SALE-BICHOTA,"BICHOTA",cocktail,220,,unit,true
+SALE-BLACK-LABEL-AGUA-MINERAL,"BLACK LABEL - AGUA MINERAL",bottle,150,,unit,true
+SALE-BLACK-LABEL-MONSTER,"BLACK LABEL - MONSTER",bottle,170,,unit,true
+SALE-BLACK-LABEL-SPRITE,"BLACK LABEL - SPRITE",bottle,150,,unit,true
+SALE-BOTE-DE-BASURA,"BOTE DE BASURA",cocktail,260,,unit,true
+SALE-BUCHANANS-12-AGUA-MINERAL,"BUCHANANS 12 - AGUA MINERAL",bottle,150,,unit,true
+SALE-BUCHANANS-12-MONSTER,"BUCHANANS 12 - MONSTER",bottle,170,,unit,true
+SALE-BUCHANANS-12-SPRITE,"BUCHANANS 12 - SPRITE",bottle,150,,unit,true
+SALE-BUCHANANS-18-AGUA-MINERAL,"BUCHANANS 18 - AGUA MINERAL",bottle,250,,unit,true
+SALE-BUCHANANS-18-SPRITE,"BUCHANANS 18 - SPRITE",bottle,260,,unit,true
+SALE-CAIPIRINA,"CAIPIRIÑA",cocktail,220,,unit,true
+SALE-CAPITAN-MORGAN-COCA-COLA,"CAPITAN MORGAN - COCA COLA",mixer,240,,unit,true
+SALE-CLAMATO-PREPARADO,"CLAMATO PREPARADO",cocktail,150,,unit,true
+SALE-CLANDEDRINK,"CLANDEDRINK",cocktail,220,,unit,true
+SALE-COSMOPOLITAN,"COSMOPOLITAN",cocktail,220,,unit,true
+SALE-EN-LAS-ROCAS-BLACK-LABEL,"EN LAS ROCAS BLACK LABEL",bottle,160,,unit,true
+SALE-EN-LAS-ROCAS-BUCHANANS-12,"EN LAS ROCAS BUCHANANS 12",bottle,180,,unit,true
+SALE-EN-LAS-ROCAS-RED-LABEL,"EN LAS ROCAS RED LABEL",bottle,130,,unit,true
+SALE-FABULOSO,"FABULOSO",cocktail,240,,unit,true
+SALE-JACK-DANIELS-COCA-COLA,"JACK DANIELS - COCA COLA",mixer,150,,unit,true
+SALE-KRIPTONITA,"KRIPTONITA",cocktail,220,,unit,true
+SALE-LUCES-DE-HABANA,"LUCES DE HABANA",cocktail,260,,unit,true
+SALE-LYSOL,"LYSOL",cocktail,220,,unit,true
+SALE-MALIBU-PINA,"MALIBU PIÑA",cocktail,220,,unit,true
+SALE-MANGO-KUSH,"MANGO KUSH",cocktail,580,,unit,true
+SALE-MARGARITA,"MARGARITA",cocktail,220,,unit,true
+SALE-MARGARITA-CHERRY,"MARGARITA CHERRY",cocktail,220,,unit,true
+SALE-MARGARITA-CHERRY-S-A,"MARGARITA CHERRY S/A",cocktail,110,,unit,true
+SALE-MARGARITA-MANGO,"MARGARITA MANGO",cocktail,220,,unit,true
+SALE-MARGARITA-MANGO-S-A,"MARGARITA MANGO S/A",cocktail,110,,unit,true
+SALE-MARGARITA-S-A,"MARGARITA S/A",cocktail,110,,unit,true
+SALE-PALOMA-CLANDESTINA,"PALOMA CLANDESTINA",cocktail,220,,unit,true
+SALE-PALOMA-OAXAQUENA,"PALOMA OAXAQUEÑA",cocktail,220,,unit,true
+SALE-PINA-COLADA,"PIÑA COLADA",cocktail,220,,unit,true
+SALE-PINA-COLADA-S-A,"PIÑA COLADA S/A",cocktail,110,,unit,true
+SALE-RED-LABEL-AGUA-MINERAL,"RED LABEL - AGUA MINERAL",bottle,120,,unit,true
+SALE-RED-LABEL-SPRITE,"RED LABEL - SPRITE",bottle,120,,unit,true
+SALE-REY-MAMABICHO,"REY MAMABICHO",cocktail,220,,unit,true
+SALE-SEX-ON-THE-BEACH,"SEX ON THE BEACH",cocktail,220,,unit,true
+SALE-SUAVITEL,"SUAVITEL",cocktail,240,,unit,true
+SALE-TAMARINDAZO,"TAMARINDAZO",cocktail,220,,unit,true
+SALE-TEQUILA-MINERAL,"TEQUILA MINERAL",bottle,240,,unit,true
+SALE-TEQUILA-SUNRISE,"TEQUILA SUNRISE",bottle,220,,unit,true
+SALE-TITOS-CRANBERRY,"TITOS & CRANBERRY",bottle,0,,unit,false
+SALE-TORNADO,"TORNADO",cocktail,220,,unit,true
+SALE-TUSSA,"TUSSA",cocktail,220,,unit,true
+SALE-VODKA-CON-AGUA-MINERAL-1L,"VODKA CON AGUA MINERAL (1L)",bottle,220,,unit,true
+SALE-CARIBE,"CARIBE",cocktail,120,,unit,true
+SALE-FOUR-LOCO,"FOUR LOCO",cocktail,180,,unit,true
+SALE-PULCERAS,"PULCERAS",cocktail,100,,unit,true
+SALE-SKY,"SKY",cocktail,120,,unit,true
+SALE-PAQUETE-CUMPLANERO-PREMIUM,"PAQUETE CUMPLAÑERO PREMIUM",cocktail,6000,,unit,true
+SALE-PAQUETE-CUMPLEANERO,"PAQUETE CUMPLEAÑERO",cocktail,4000,,unit,true
+SALE-AMARRAME,"AMARRAME",cocktail,200,,unit,true
+SALE-AZULITO-V-CHICO-GRATIS,"AZULITO V-CHICO (GRATIS)",cocktail,0,,unit,false
+SALE-CAIPIRINA-V-CHICO,"CAIPIRIÑA V-CHICO",cocktail,20,,unit,true
+SALE-EL-PADRINO-FREE-DRINK,"EL PADRINO FREE DRINK",cocktail,0,,unit,false
+SALE-PALOMA-V-CHICO,"PALOMA V-CHICO",cocktail,20,,unit,true
+SALE-PRIVADO,"PRIVADO",cocktail,200,,unit,true
+SALE-RAINBOW-CHICO-2025,"RAINBOW CHICO 2025",cocktail,20,,unit,true
+SALE-SEX-ON-THE-BEACH-V-CHICO,"SEX ON THE BEACH V-CHICO",cocktail,20,,unit,true
+SALE-AZULITO-V-CHICO,"AZULITO V-CHICO",cocktail,20,,unit,true
+SALE-AGUA,"AGUA",mixer,30,,unit,true
+SALE-AGUA-MINERAL-CH,"AGUA MINERAL CH",mixer,30,,unit,true
+SALE-COCA-COLA,"COCA COLA",mixer,50,,unit,true
+SALE-JUGO-ARANDANO,"JUGO ARANDANO",mixer,100,,unit,true
+SALE-JUGO-MANGO,"JUGO MANGO",mixer,100,,unit,true
+SALE-JUGO-NARANJA,"JUGO NARANJA",mixer,100,,unit,true
+SALE-JUGO-PINA,"JUGO PIÑA",mixer,100,,unit,true
+SALE-JUGO-TORONJA,"JUGO TORONJA",mixer,100,,unit,true
+SALE-MONSTER,"MONSTER",mixer,110,,unit,true
+SALE-SPRITE,"SPRITE",mixer,50,,unit,true
+SALE-SQUIRT,"SQUIRT",mixer,50,,unit,true
+SALE-PERLA-NEGRA-2X1,"PERLA NEGRA 2X1",cocktail,130,,unit,true
+SALE-RONDA-BABY-MANGO,"RONDA BABY MANGO",shots_and_buckets,250,,unit,true
+SALE-RONDA-MAMADAS,"RONDA MAMADAS",shots_and_buckets,360,,unit,true
+SALE-RONDA-PERLAS-NEGRAS,"RONDA PERLAS NEGRAS",shots_and_buckets,720,,unit,true
+SALE-RONDA-RAINBOW,"RONDA RAINBOW",shots_and_buckets,250,,unit,true
+SALE-RONDA-TAMARINDAZO,"RONDA TAMARINDAZO",shots_and_buckets,240,,unit,true
+SALE-SHOT-BACANORA,"SHOT BACANORA",shots_and_buckets,120,,unit,true
+SALE-SHOT-BARULLO,"SHOT BARULLO",shots_and_buckets,150,,unit,true
+SALE-SHOT-CAPITAN-MORGAN,"SHOT CAPITAN MORGAN",shots_and_buckets,60,,unit,true
+SALE-SHOT-CORTESIA,"SHOT CORTESIA",shots_and_buckets,0,,unit,false
+SALE-SHOT-DON-JULIO-70,"SHOT DON JULIO 70",bottle,150,,unit,true
+SALE-SHOT-HORNITOS-REPOSADO,"SHOT HORNITOS REPOSADO",shots_and_buckets,120,,unit,true
+SALE-SHOT-MAESTRO-TEQUILERO,"SHOT MAESTRO TEQUILERO",shots_and_buckets,120,,unit,true
+SALE-SHOT-PERLA-NEGRA,"SHOT PERLA NEGRA",shots_and_buckets,130,,unit,true
+SALE-SHOT-TEQUILA-MANGO,"SHOT TEQUILA MANGO",bottle,60,,unit,true
+SALE-SHOT-VODKA-TAMARINDO,"SHOT VODKA TAMARINDO",bottle,60,,unit,true
+SALE-3X2-CUBETA-TECATE-1-4-BLANCA,"3X2 CUBETA TECATE 1/4 BLANCA",beer,600,,unit,true
+SALE-3X2-CUBETA-TECATE-1-4-ROJA,"3X2 CUBETA TECATE 1/4 ROJA",beer,600,,unit,true
+SALE-911-DRINK,"911 DRINK",cocktail,350,,unit,true
+SALE-AZULITO-3X2-SUSPENDIDO,"AZULITO 3X2 SUSPENDIDO",cocktail,440,,unit,true
+SALE-AZULITO-CHICO-S-A-2025,"AZULITO CHICO S/A 2025",cocktail,30,,unit,true
+SALE-AZULITO-PROMO,"AZULITO PROMO",cocktail,240,,unit,true
+SALE-AZULITO-S-A-V-CHICO,"AZULITO S/A V-CHICO",cocktail,20,,unit,true
+SALE-BABY-MANGO,"BABY MANGO",cocktail,240,,unit,true
+SALE-BARBIE-START,"BARBIE START",cocktail,240,,unit,true
+SALE-BARRA-LIBRE-CERVEZA,"BARRA LIBRE CERVEZA",beer,0,,unit,false
+SALE-BARRA-LIBRE-DINCK,"BARRA LIBRE DINCK",access,0,,unit,false
+SALE-BEBIDA-SIN-ALCOHOL,"BEBIDA SIN ALCOHOL",cocktail,100,,unit,true
+SALE-BLACK-LABEL-1LT,"BLACK LABEL 1LT",bottle,3200,,unit,true
+SALE-BLUE-HAWAII,"BLUE HAWAII",cocktail,240,,unit,true
+SALE-BOLETO,"BOLETO",access,0,,unit,false
+SALE-BOLETO-CORTESIA-SHOT,"BOLETO CORTESÍA SHOT",access,0,,unit,false
+SALE-BOT-CHAMPAGNE-DE-LA-CASA-CUMPLEANERO,"BOT CHAMPAGNE DE LA CASA CUMPLEANERO",bottle,0,,unit,false
+SALE-BOT-DOUBLE-BLACK-LABEL-1LT-2025,"BOT DOUBLE BLACK LABEL 1LT 2025",bottle,3400,,unit,true
+SALE-BOT-RED-LABEL-JW-1LITRO-2025,"BOT RED LABEL JW 1LITRO 2025",bottle,2400,,unit,true
+SALE-BOT-TEQUILA-CLANDESTINOZ,"BOT TEQUILA CLANDESTINOZ",bottle,1700,,unit,true
+SALE-BOTE-TECATE-BLANCO,"BOTE TECATE BLANCO",beer,35,,unit,true
+SALE-BOTE-TECATE-ROJO,"BOTE TECATE ROJO",beer,35,,unit,true
+SALE-BOTELLA,"BOTELLA",bottle,685,,unit,true
+SALE-BUZZBALL,"BUZZBALL",cocktail,80,,unit,true
+SALE-CAGUAMA-HIGH-MILLER,"CAGUAMA HIGH MILLER",beer,155,,unit,true
+SALE-CAGUAMA-TECATE-BLANCA,"CAGUAMA TECATE BLANCA",beer,110,,unit,true
+SALE-CAGUAMA-TECATE-ROJA,"CAGUAMA TECATE ROJA",beer,110,,unit,true
+SALE-CAMPIRINA,"CAMPIRINA",cocktail,0,,unit,false
+SALE-CHAMPGNE-BOTTEGA,"CHAMPGNE BOTTEGA",cocktail,3000,,unit,true
+SALE-CHUPACABRAS,"CHUPACABRAS",cocktail,0,,unit,false
+SALE-CLANDEWINDEX,"CLANDEWINDEX",cocktail,220,,unit,true
+SALE-COCA-COLA-LIHGT,"COCA COLA LIHGT",mixer,50,,unit,true
+SALE-COCA-COLA-V-CHICO,"COCA COLA V-CHICO",mixer,20,,unit,true
+SALE-COVER-150,"COVER $150",access,150,,unit,true
+SALE-CUBETA-BOTE-BLANCO,"CUBETA BOTE BLANCO",beer,350,,unit,true
+SALE-CUBETA-BOTE-ROJO,"CUBETA BOTE ROJO",beer,350,,unit,true
+SALE-CUBETA-TECATE-1-4-MIXTA,"CUBETA TECATE 1/4 MIXTA",beer,270,,unit,true
+SALE-CUBETA-TECATE-BOTE,"CUBETA TECATE BOTE",beer,440,,unit,true
+SALE-DADDY-MANGO,"DADDY MANGO",cocktail,0,,unit,false
+SALE-DAIQUIRI-DE-FRESA,"DAIQUIRI DE FRESA",cocktail,30,,unit,true
+SALE-DAIQUIRI-DE-MANGO,"DAIQUIRI DE MANGO",cocktail,30,,unit,true
+SALE-DON-JULIO-1-500,"DON JULIO $1,500",bottle,1500,,unit,true
+SALE-DON-JULIO-Y-RED-LABEL,"DON JULIO Y RED LABEL",bottle,3300,,unit,true
+SALE-EFECTO-ELEVADO-2025,"EFECTO ELEVADO 2025",cocktail,240,,unit,true
+SALE-FRESA-TENTADORA,"FRESA TENTADORA",cocktail,0,,unit,false
+SALE-FRESCA-2025,"FRESCA 2025",cocktail,50,,unit,true
+SALE-FRESCA-BOTE,"FRESCA BOTE",cocktail,30,,unit,true
+SALE-GOOD-BYE-MADAFAKERS,"GOOD BYE MADAFAKERS",cocktail,240,,unit,true
+SALE-JBALVIN-COLORES,"JBALVIN (COLORES)",cocktail,0,,unit,false
+SALE-JUDAS,"JUDAS",cocktail,240,,unit,true
+SALE-JUGO-DE-ARANDANO,"JUGO DE ARANDANO",mixer,30,,unit,true
+SALE-JUGO-DE-PINA,"JUGO DE PIÑA",mixer,30,,unit,true
+SALE-LIGHT,"LIGHT",cocktail,0,,unit,false
+SALE-LIMONADA,"LIMONADA",cocktail,30,,unit,true
+SALE-MAESTRO-DOBEL-TEQUILERO,"MAESTRO DOBEL TEQUILERO",cocktail,3000,,unit,true
+SALE-MAMADAS,"MAMADAS",cocktail,220,,unit,true
+SALE-MANGO-CUSH,"MANGO CUSH",cocktail,600,,unit,true
+SALE-MARGARITA-CHERRY-S-A-V-CHICO,"MARGARITA CHERRY S/A V-CHICO",cocktail,20,,unit,true
+SALE-MARGARITA-CHICA-S-A-2025,"MARGARITA CHICA S/A 2025",cocktail,30,,unit,true
+SALE-MARGARITA-DE-LIMON-S-A,"MARGARITA DE LIMON S/A",cocktail,130,,unit,true
+SALE-MARGARITA-DE-LIMON-S-A-2025,"MARGARITA DE LIMON S/A 2025",cocktail,130,,unit,true
+SALE-MARGARITA-LIMON-2025,"MARGARITA LIMON 2025",cocktail,240,,unit,true
+SALE-MARGARITA-MANGO-S-A-V-CHICO,"MARGARITA MANGO S/A V-CHICO",cocktail,20,,unit,true
+SALE-MARGARITA-S-A-V-CHICO,"MARGARITA S/A V-CHICO",cocktail,20,,unit,true
+SALE-MESA-GENERAL,"MESA GENERAL",cocktail,300,,unit,true
+SALE-MICHELADA,"MICHELADA",cocktail,180,,unit,true
+SALE-MICHELADA-CLANDESTINA-2025,"MICHELADA CLANDESTINA 2025",cocktail,240,,unit,true
+SALE-MUNECA-2025,"MUÑECA 2025",cocktail,240,,unit,true
+SALE-PALOMA-JARRITO,"PALOMA JARRITO",cocktail,120,,unit,true
+SALE-PERLA-NEGRA-VIP,"PERLA NEGRA VIP",cocktail,0,,unit,false
+SALE-PINA,"PINA",cocktail,0,,unit,false
+SALE-PINK-DRINK,"PINK DRINK",cocktail,150,,unit,true
+SALE-PINA-COLADA-CHICA-S-A-2025,"PIÑA COLADA CHICA S/A 2025",cocktail,30,,unit,true
+SALE-PINA-COLADA-S-A-V-CHICO,"PIÑA COLADA S/A V-CHICO",cocktail,20,,unit,true
+SALE-PINA-TROPICAL,"PIÑA TROPICAL",cocktail,220,,unit,true
+SALE-POWERADE-MORA,"POWERADE MORA",cocktail,30,,unit,true
+SALE-POWERADE-V-CHICO,"POWERADE V-CHICO",cocktail,20,,unit,true
+SALE-PROM-BICHOTA,"PROM BICHOTA",cocktail,0,,unit,false
+SALE-PROMO-AZULITO,"PROMO AZULITO",cocktail,0,,unit,false
+SALE-PROMO-BARRA-LIBRE-20-USD,"PROMO BARRA LIBRE 20 USD",access,360,,unit,true
+SALE-PROMO-CAIPIRINA,"PROMO CAIPIRINA",cocktail,0,,unit,false
+SALE-PROMO-PALOMA-CLANDESITINA,"PROMO PALOMA CLANDESITINA",cocktail,0,,unit,false
+SALE-PROMO-RED-LABEL,"PROMO RED LABEL",bottle,2200,,unit,true
+SALE-PULCERA-EXTRA,"PULCERA EXTRA",cocktail,100,,unit,true
+SALE-PULSERA-COVER,"PULSERA COVER",access,0,,unit,false
+SALE-RAINBOW-S-A-2025,"RAINBOW S/A 2025",cocktail,130,,unit,true
+SALE-RASBERRY-SPLASH,"RASBERRY SPLASH",cocktail,220,,unit,true
+SALE-RED-LABEL-750-ML,"RED LABEL 750 ML",bottle,1450,,unit,true
+SALE-REFIL-PALOMA-JARRITO,"REFIL PALOMA JARRITO",cocktail,80,,unit,true
+SALE-ROJA,"ROJA",cocktail,0,,unit,false
+SALE-RONDA-TEQUILA-CLANDESTINOZ,"RONDA TEQUILA CLANDESTINOZ",bottle,0,,unit,false
+SALE-SERVILLETAS,"SERVILLETAS",cocktail,0,,unit,false
+SALE-SEX-ON-THE-BICH,"SEX ON THE BICH",cocktail,0,,unit,false
+SALE-SHOT-DON-JULIO-2X150,"SHOT DON JULIO 2X150",bottle,150,,unit,true
+SALE-SHOT-TAMARINDAZO,"SHOT TAMARINDAZO",shots_and_buckets,130,,unit,true
+SALE-SHOT-TEQUILA-CLANDESTINOZ,"SHOT TEQUILA CLANDESTINOZ",bottle,110,,unit,true
+SALE-SKY-ROCKET,"SKY ROCKET",cocktail,220,,unit,true
+SALE-SNOOP-SANCK-2025,"SNOOP SANCK 2025",cocktail,240,,unit,true
+SALE-SODA,"SODA",cocktail,30,,unit,true
+SALE-SPRITE-BOTE,"SPRITE BOTE",mixer,30,,unit,true
+SALE-SPRITE-V-CHICO,"SPRITE V-CHICO",mixer,20,,unit,true
+SALE-SQUIRT-V-CHICO,"SQUIRT V-CHICO",mixer,20,,unit,true
+SALE-TECATE-BOTE,"TECATE BOTE",beer,45,,unit,true
+SALE-TECATE-BOTE-BLANCO,"TECATE BOTE BLANCO",beer,35,,unit,true
+SALE-TEQUILA-SUNRICE,"TEQUILA SUNRICE",bottle,0,,unit,false
+SALE-TRAGO-DON-JULIO-70,"TRAGO DON JULIO 70",bottle,300,,unit,true
+SALE-TRAGO-ETIQUETA-NEGRA,"TRAGO ETIQUETA NEGRA",cocktail,300,,unit,true
+SALE-TRAGO-WHISKY,"TRAGO WHISKY",cocktail,240,,unit,true
+SALE-TRAGOS-BARRA-LIBRE,"TRAGOS BARRA LIBRE",access,0,,unit,false
+SALE-TWISTED-TEA,"TWISTED TEA",cocktail,70,,unit,true
+SALE-VIP,"VIP",cocktail,0,,unit,false
+SALE-VIRGIN-SUNRISE,"VIRGIN SUNRISE",cocktail,120,,unit,true
+SALE-WHISKY-EN-LAS-ROCAS,"WHISKY EN LAS ROCAS",cocktail,170,,unit,true
+SALE-YARDA,"YARDA",cocktail,50,,unit,true
+SALE-MESA,"MESA",cocktail,300,,unit,true
+SALE-PUL-EXT,"PUL. EXT.",cocktail,100,,unit,true
+SALE-RESERVACIONES-VIP-EFEC,"RESERVACIONES VIP EFEC",cocktail,1000,,unit,true
+SALE-VALE-VIP-13,"VALE VIP-13",cocktail,0,,unit,false
+SALE-VALE-VIP-14,"VALE VIP-14",cocktail,0,,unit,false
+SALE-VALE-VIP-16,"VALE VIP-16",cocktail,0,,unit,false
+SALE-VALE-VIP-17,"VALE VIP-17",cocktail,0,,unit,false
+SALE-VALE-VIP-18,"VALE VIP-18",cocktail,0,,unit,false
+SALE-VALE-VIP-32,"VALE VIP-32",cocktail,0,,unit,false
+SALE-VALE-VIP-33,"VALE VIP-33",cocktail,0,,unit,false
+SALE-VALE-VIP-34,"VALE VIP-34",cocktail,0,,unit,false
+SALE-VALE-VIP-35,"VALE VIP-35",cocktail,0,,unit,false
+SALE-VALE-VIP-36,"VALE VIP-36",cocktail,0,,unit,false
+SALE-VALE-VIP-37,"VALE VIP-37",cocktail,0,,unit,false
+SALE-VALE-VIP-38,"VALE VIP-38",cocktail,0,,unit,false
+SALE-VALE-VIP-39,"VALE VIP-39",cocktail,0,,unit,false
+SALE-VALE-VIP-40,"VALE VIP-40",cocktail,0,,unit,false
+SALE-VALE-VIP-41,"VALE VIP-41",cocktail,0,,unit,false
+SALE-VALE-VIP-42,"VALE VIP-42",cocktail,0,,unit,false
+SALE-VALE-VIP-43,"VALE VIP-43",cocktail,0,,unit,false
+SALE-VALE-VIP-44,"VALE VIP-44",cocktail,0,,unit,false
+SALE-VALE-VIP-45,"VALE VIP-45",cocktail,0,,unit,false
+SALE-VALE-VIP-46,"VALE VIP-46",cocktail,0,,unit,false
+SALE-VALE-VIP-47,"VALE VIP-47",cocktail,0,,unit,false
+SALE-VALE-VIP-48,"VALE VIP-48",cocktail,0,,unit,false
+SALE-VALE-VIP-49,"VALE VIP-49",cocktail,0,,unit,false
+SALE-VALE-VIP-50,"VALE VIP-50",cocktail,0,,unit,false
+SALE-VALE-VIP-51,"VALE VIP-51",cocktail,0,,unit,false
+SALE-VALE-VIP-52,"VALE VIP-52",cocktail,0,,unit,false
+SALE-VALE-VIP-53,"VALE VIP-53",cocktail,0,,unit,false
+SALE-VIP-13-PUL-EXT,"VIP-13 PUL. EXT.",cocktail,100,,unit,true
+SALE-VIP-14-PUL-EXT,"VIP-14 PUL. EXT.",cocktail,100,,unit,true
+SALE-VIP-16-PUL-EXT,"VIP-16 PUL. EXT.",cocktail,100,,unit,true
+SALE-VIP-17-PUL-EXT,"VIP-17 PUL. EXT.",cocktail,100,,unit,true
+SALE-VIP-18-PUL-EXT,"VIP-18 PUL. EXT.",cocktail,100,,unit,true
+SALE-VIP-32-PUL-EXT,"VIP-32 PUL. EXT.",cocktail,100,,unit,true
+SALE-VIP-33-PUL-EXT,"VIP-33 PUL. EXT.",cocktail,100,,unit,true
+SALE-VIP-34-PUL-EXT,"VIP-34 PUL. EXT.",cocktail,100,,unit,true
+SALE-VIP-35-PUL-EXT,"VIP-35 PUL. EXT.",cocktail,100,,unit,true
+SALE-VIP-36-PUL-EXT,"VIP-36 PUL. EXT.",cocktail,100,,unit,true
+SALE-VIP-37-PUL-EXT,"VIP-37 PUL. EXT.",cocktail,100,,unit,true
+SALE-VIP-38-PUL-EXT,"VIP-38 PUL. EXT.",cocktail,100,,unit,true
+SALE-VIP-39-PUL-EXT,"VIP-39 PUL. EXT.",cocktail,100,,unit,true
+SALE-VIP-40-PUL-EXT,"VIP-40 PUL. EXT.",cocktail,100,,unit,true
+SALE-VIP-41-PUL-EXT,"VIP-41 PUL. EXT.",cocktail,100,,unit,true
+SALE-VIP-42-PUL-EXT,"VIP-42 PUL. EXT.",cocktail,100,,unit,true
+SALE-VIP-43-PUL-EXT,"VIP-43 PUL. EXT.",cocktail,100,,unit,true
+SALE-VIP-44-PUL-EXT,"VIP-44 PUL. EXT.",cocktail,100,,unit,true
+SALE-VIP-45-PUL-EXT,"VIP-45 PUL. EXT.",cocktail,100,,unit,true
+SALE-VIP-46-PUL-EXT,"VIP-46 PUL. EXT.",cocktail,100,,unit,true
+SALE-VIP-47-PUL-EXT,"VIP-47 PUL. EXT.",cocktail,100,,unit,true
+SALE-VIP-48-PUL-EXT,"VIP-48 PUL. EXT.",cocktail,100,,unit,true
+SALE-VIP-49-PUL-EXT,"VIP-49 PUL. EXT.",cocktail,100,,unit,true
+SALE-VIP-50-PUL-EXT,"VIP-50 PUL. EXT.",cocktail,100,,unit,true
+SALE-VIP-51-PUL-EXT,"VIP-51 PUL. EXT.",cocktail,100,,unit,true
+SALE-VIP-52-PUL-EXT,"VIP-52 PUL. EXT.",cocktail,100,,unit,true
+SALE-VIP-53-PUL-EXT,"VIP-53 PUL. EXT.",cocktail,100,,unit,true
+ING-002110,"TEQUILA 30-30 AÑEJO652.59",ingredient,0,,unit,false
+ING-002109,"TEQUILA 30-30 BLANCO",ingredient,0,,ml,false
+ING-002107,"TEQUILA 30-30 CRISTALINO",ingredient,0,,unit,false
+ING-002108,"TEQUILA 30-30 REPOSADO",ingredient,0,,unit,false
+ING-001051,"TECATE LIGHT",ingredient,0,,unit,false
+ING-001059,"TECATE ROJA",ingredient,0,,unit,false
+ING-001026,"GINEBRA (SUSPENDIDO)",ingredient,0,,unit,false
+ING-001027,"LICOR CARIBU DURAZNO - (1L -",ingredient,0,,ml,false
+ING-001002,"LICOR CARIBU TRIPLE SEC - (1L",ingredient,0,,ml,false
+ING-001004,"SPRITE - (3L - 99 OZ / 2L - 66 OZ",ingredient,0,,ml,false
+ING-001024,"VODKA ZAVERICH - (1L - 33 OZ)",ingredient,0,,ml,false
+ING-002070,"VODKA ABSOLUT - (750 ML)",ingredient,0,,unit,false
+ING-001056,"VODKA ABSOLUT LIMON - (750 M",ingredient,0,,unit,false
+ING-004014,"VODKA ABSOLUT MANGO - (750",ingredient,0,,unit,false
+ING-001057,"VODKA ABSOLUT PERA - (750 M",ingredient,0,,unit,false
+ING-001058,"VODKA ABSOLUT RASPBERRY",ingredient,0,,ml,false
+ING-002068,"VODKA ABSOLUT SANDIA - (750",ingredient,0,,unit,false
+ING-001054,"AGUA",ingredient,0,,unit,false
+ING-003024,"AGUA MINERAL - (355 ML)",ingredient,0,,unit,false
+ING-001030,"JUGO ARANDANO - (1L - 33 OZ)",ingredient,0,,ml,false
+ING-002071,"RON ANTILLANO BLANCO - (1L -",ingredient,0,,ml,false
+ING-001032,"RON MALIBU - (750 ML - 25 OZ)",ingredient,0,,ml,false
+ING-001010,"TEQUILA MANGO AZUL - (700 M",ingredient,0,,ml,false
+ING-001008,"AGUA MINERAL - (2L - 66 OZ)",ingredient,0,,ml,false
+ING-001007,"LICOR CARIBU CURACAO AZUL",ingredient,0,,ml,false
+ING-004007,"VODKA OSO NEGRO - (1L - 33 O",ingredient,0,,ml,false
+ING-001037,"POWERADE - (1L - 33 OZ)",ingredient,0,,ml,false
+ING-001011,"CONCENTRADO MANGO - (1L -",ingredient,0,,ml,false
+ING-001039,"JUGO MANGO - (1L - 33 OZ)",ingredient,0,,ml,false
+ING-001052,"RON BACARDI BLANCO - (750 M",ingredient,0,,ml,false
+ING-006024,"COCA COLA - (3L - 99 OZ)",ingredient,0,,ml,false
+ING-001043,"RON BACARDI LIMON - (750 ML",ingredient,0,,ml,false
+ING-001012,"RON BACARDI MANGO - (750 M",ingredient,0,,ml,false
+ING-001006,"RON BACARDI RASPBERRY - (7",ingredient,0,,ml,false
+ING-001034,"CALAHUA - (1L - 33 OZ)",ingredient,0,,ml,false
+ING-001009,"JUGO PIÑA - (1L - 33 OZ)",ingredient,0,,ml,false
+ING-001023,"FRESCA 3 L (SUSPENDIDO)",ingredient,0,,unit,false
+ING-001042,"GLITTER (SUSPENDIDO)",ingredient,0,,ml,false
+ING-001013,"LICOR GRANADINA - (1L - 33 OZ",ingredient,0,,ml,false
+ING-001079,"TEQUILA (CABRITOS, HERENCIA",ingredient,0,,ml,false
+ING-002113,"TEQUILA BARULLO SANDIA",ingredient,0,,unit,false
+ING-001017,"NARANJADA - (2L - 66 OZ)",ingredient,0,,ml,false
+ING-001074,"WHISKY BLACK LABEL - (750 ML",ingredient,0,,ml,false
+ING-001021,"MONSTER - (473 ML - 16 OZ)",ingredient,0,,ml,false
+ING-001040,"CARNATION - (1L - 33 OZ / 340 M",ingredient,0,,ml,false
+ING-001022,"WHISKY BLUE LABEL",ingredient,0,,unit,false
+ING-002069,"VODKA BOMBAY",ingredient,0,,unit,false
+ING-001001,"VINO ESPUMOSO CHAMPAGNE",ingredient,0,,unit,false
+ING-001075,"WHISKY DOUBLE BLACK LABEL",ingredient,0,,unit,false
+ING-001018,"WHISKEY RED LABEL - (700 ML",ingredient,0,,ml,false
+ING-001029,"TEQUILA DE LA CASA (SUSPEN",ingredient,0,,ml,false
+ING-002076,"GINEBRA OSO NEGRO - (1L -",ingredient,0,,ml,false
+ING-004020,"BOTE TECATE BLANCO (SUSPE",ingredient,0,,unit,false
+ING-004019,"BOTE TECATE ROJO (SUSPEND",ingredient,0,,unit,false
+ING-001070,"TEQUILA MAESTRO DOBEL - (70",ingredient,0,,ml,false
+ING-001076,"WHISKY BUCHANNANS 12 - (750",ingredient,0,,ml,false
+ING-001077,"WHISKY BUCHANNANS 18 - (750",ingredient,0,,ml,false
+ING-002111,"WHISKY BUCHANNANS 21 *RED",ingredient,0,,unit,false
+ING-002061,"WHISKY BUCHANNANS MASTER",ingredient,0,,unit,false
+ING-002062,"WHISKY BUCHANNANS PIÑA",ingredient,0,,unit,false
+ING-001087,"BUZZBALL (SUSPENDIDO)",ingredient,0,,ml,false
+ING-001089,"CAGUAMA MILLER (SUSPENDID",ingredient,0,,unit,false
+ING-001090,"CAGUAMA TECATE BLANCA (SU",ingredient,0,,unit,false
+ING-001073,"CAGUAMA TECATE ROJA (SUSP",ingredient,0,,unit,false
+ING-001005,"LICOR JARABE NATURAL - (1L -",ingredient,0,,ml,false
+ING-003026,"SQUIRT GRANDE (3L - 99 OZ /",ingredient,0,,ml,false
+ING-001020,"RON CAPITAN MORGAN - (700 M",ingredient,0,,ml,false
+ING-001094,"CARIBE COOLER - SUSPENDIDO",ingredient,0,,unit,false
+ING-001046,"LICOR JAGERMEISTER - (700 M",ingredient,0,,ml,false
+ING-001050,"CLAMATO - ( 2.54L - 85 OZ)",ingredient,0,,ml,false
+ING-001068,"TEQUILA CLASE AZUL",ingredient,0,,unit,false
+ING-001062,"COCA COLA - (355 ML)",ingredient,0,,unit,false
+ING-001093,"COCA COLA LIGHT - (SUSPEND",ingredient,0,,unit,false
+ING-001082,"VINO ESPUMOSO DOM PERIGN",ingredient,0,,unit,false
+ING-001067,"TEQUILA DON JULIO",ingredient,0,,unit,false
+ING-001033,"TEQUILA DON JULIO 70 - (23 OZ",ingredient,0,,ml,false
+ING-001065,"TEQUILA DON JULIO BLANCO",ingredient,0,,unit,false
+ING-001066,"TEQUILA DON JULIO REPOSAD",ingredient,0,,unit,false
+ING-001084,"VODKA SMIRNOF TAMARINDO -",ingredient,0,,ml,false
+ING-001016,"VODKA TAMARINDO (SUSPEND",ingredient,0,,unit,false
+ING-001028,"FOUR LOKO",ingredient,0,,unit,false
+ING-001035,"CREMA BATIDA - (425 GR - 12 O",ingredient,0,,unit,false
+ING-001045,"HERSHEYS DE FRESA (SUSPEN",ingredient,0,,ml,false
+ING-001044,"LICOR BAILEYS - (1L - 33 OZ)",ingredient,0,,ml,false
+ING-001064,"FRESCA .355 ML (SUSPENDIDO",ingredient,0,,unit,false
+ING-001069,"TEQUILA GRAN MALO",ingredient,0,,unit,false
+ING-001083,"VODKA GREY GOOSE",ingredient,0,,unit,false
+ING-001071,"TEQUILA HERRADURA ULTRA",ingredient,0,,unit,false
+ING-001080,"LICOR HPNOTIQ",ingredient,0,,unit,false
+ING-001078,"WHISKY JACK DANIELS - (700 M",ingredient,0,,ml,false
+ING-001041,"JUGO NARANJA - (1L - 33 OZ)",ingredient,0,,ml,false
+ING-001053,"LICOR CARIBU MELON - (1L -",ingredient,0,,ml,false
+ING-002080,"VINO - (750 ML - 25 OZ)",ingredient,0,,ml,false
+ING-004021,"JUGO TORONJA - (1L - 33 OZ)",ingredient,0,,ml,false
+ING-002096,"MAESTRO DOBEL (SUSPENDID",ingredient,0,,unit,false
+ING-001048,"LICOR KALHUA - (1L - 33 OZ)",ingredient,0,,ml,false
+ING-002112,"MEZCAL 400 CONEJOS (JOVEN",ingredient,0,,unit,false
+ING-001049,"PETROLEO (SUSPENDIDO)0",ingredient,0,,ml,false
+ING-001061,"CONCENTRADO TAMARINDO - (",ingredient,0,,ml,false
+ING-001081,"VINO ESPUMOSO MOET",ingredient,0,,unit,false
+ING-001095,"LICOR DE GUANABANA (SUSPE",ingredient,0,,unit,false
+ING-001025,"VODKA NUVO - SUSPENDIDO",ingredient,0,,unit,false
+ING-002086,"RON BACANORA - (1L - 33 OZ)",ingredient,0,,ml,false
+ING-004015,"PIÑA (SUSPENDIDO)",ingredient,0,,unit,false
+ING-001015,"ALMIBAR CHERRY (SUSPENDID",ingredient,0,,ml,false
+ING-002099,"TEQUILA DON JULIO 70 (SUSPE",ingredient,0,,unit,false
+ING-001085,"PULSERA COVER (SUSPENDIDO",ingredient,0,,unit,false
+ING-002065,"TEQUILA HORNITOS",ingredient,0,,unit,false
+ING-001019,"SKY",ingredient,0,,unit,false
+ING-001063,"SPRITE - (355 ML)",ingredient,0,,unit,false
+ING-003027,"SQUIRT - (355 ML)",ingredient,0,,unit,false
+ING-002052,"TEQUILA 1800",ingredient,0,,unit,false
+ING-002106,"VODKA TITOS - (750 ML)",ingredient,0,,unit,false
+ING-002082,"LICOR CARIBU MENTA VERDE -",ingredient,0,,ml,false
+ING-002072,"LICOR BRANDY TORRES 10 - (7",ingredient,0,,ml,false
+ING-001086,"TWISTED TEA (SUSPENDIDO)",ingredient,0,,unit,false
+ING-001036,"VIP (SUSPENDIDO)",ingredient,0,,unit,false
+ING-001097,"YARDA (SUSPENDIDO)",ingredient,0,,unit,false

@@ -1,0 +1,7001 @@
+{
+  "generated_at": "2026-09-13T02:15:25.110Z",
+  "source": {
+    "catalog": "productos.pdf",
+    "recipes": "recetas.pdf"
+  },
+  "products": [
+    {
+      "sku": "SALE-AZULITO-BARRA-LIBRE",
+      "name": "AZULITO (BARRA LIBRE)",
+      "category": "access",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-BICHOTA-BL",
+      "name": "BICHOTA BL",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-CAIPIRINA-BARRA-LIBRE",
+      "name": "CAIPIRIÑA (BARRA LIBRE)",
+      "category": "access",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-PALOMA-BARRA-LIBRE",
+      "name": "PALOMA (BARRA LIBRE)",
+      "category": "access",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-REY-MAMABICHO-BL",
+      "name": "REY MAMABICHO BL",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-SEX-ON-THE-BEACH-BARRA-LIBRE",
+      "name": "SEX ON THE BEACH (BARRA LIBRE)",
+      "category": "access",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-30-30-ANEJO",
+      "name": "30-30 AÑEJO",
+      "category": "cocktail",
+      "price_mxn": 2600,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-30-30-BLANCO",
+      "name": "30-30 BLANCO",
+      "category": "cocktail",
+      "price_mxn": 1500,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-30-30-CRISTALINO",
+      "name": "30-30 CRISTALINO",
+      "category": "cocktail",
+      "price_mxn": 3000,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-30-30-REPOSADO",
+      "name": "30-30 REPOSADO",
+      "category": "cocktail",
+      "price_mxn": 1500,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-ABSOLUT",
+      "name": "ABSOLUT",
+      "category": "bottle",
+      "price_mxn": 1250,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-ABSOLUT-LIMON",
+      "name": "ABSOLUT LIMON",
+      "category": "bottle",
+      "price_mxn": 1250,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-ABSOLUT-MANGO",
+      "name": "ABSOLUT MANGO",
+      "category": "bottle",
+      "price_mxn": 1250,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-ABSOLUT-PERA",
+      "name": "ABSOLUT PERA",
+      "category": "bottle",
+      "price_mxn": 1250,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-ABSOLUT-RASPBERRY",
+      "name": "ABSOLUT RASPBERRY",
+      "category": "bottle",
+      "price_mxn": 1250,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-ABSOLUT-SANDIA",
+      "name": "ABSOLUT SANDIA",
+      "category": "bottle",
+      "price_mxn": 1250,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-AZUL-MANGO",
+      "name": "AZUL MANGO",
+      "category": "cocktail",
+      "price_mxn": 1250,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BACARDI",
+      "name": "BACARDI",
+      "category": "bottle",
+      "price_mxn": 1250,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BACARDI-LIMON",
+      "name": "BACARDI LIMON",
+      "category": "bottle",
+      "price_mxn": 1250,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BACARDI-MANGO-CHILE",
+      "name": "BACARDI MANGO CHILE",
+      "category": "bottle",
+      "price_mxn": 1250,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BACARDI-RASPBERRY",
+      "name": "BACARDI RASPBERRY",
+      "category": "bottle",
+      "price_mxn": 1250,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BARULLO-SPICY-SANDIA",
+      "name": "BARULLO SPICY SANDIA",
+      "category": "cocktail",
+      "price_mxn": 1600,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BLACK-LABEL",
+      "name": "BLACK LABEL",
+      "category": "bottle",
+      "price_mxn": 2650,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BLUE-LABEL",
+      "name": "BLUE LABEL",
+      "category": "bottle",
+      "price_mxn": 13000,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BOMBAY",
+      "name": "BOMBAY",
+      "category": "bottle",
+      "price_mxn": 2000,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BUCHANANS-12",
+      "name": "BUCHANANS 12",
+      "category": "bottle",
+      "price_mxn": 2650,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BUCHANANS-18",
+      "name": "BUCHANANS 18",
+      "category": "bottle",
+      "price_mxn": 4000,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BUCHANANS-21",
+      "name": "BUCHANANS 21",
+      "category": "bottle",
+      "price_mxn": 13000,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BUCHANANS-MASTER",
+      "name": "BUCHANANS MASTER",
+      "category": "bottle",
+      "price_mxn": 3500,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BUCHANANS-PINA",
+      "name": "BUCHANANS PIÑA",
+      "category": "bottle",
+      "price_mxn": 3000,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-CAPTAIN-MORGAN",
+      "name": "CAPTAIN MORGAN",
+      "category": "cocktail",
+      "price_mxn": 1250,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-CHAMPAGNE-DE-LA-CASA",
+      "name": "CHAMPAGNE DE LA CASA",
+      "category": "bottle",
+      "price_mxn": 1250,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-CLASE-AZUL-REPOSADO",
+      "name": "CLASE AZUL REPOSADO",
+      "category": "bottle",
+      "price_mxn": 11500,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-DOM-PERIGNON",
+      "name": "DOM PERIGNON",
+      "category": "bottle",
+      "price_mxn": 15000,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-DON-JULIO-1942",
+      "name": "DON JULIO 1942",
+      "category": "bottle",
+      "price_mxn": 7000,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-DON-JULIO-70",
+      "name": "DON JULIO 70",
+      "category": "bottle",
+      "price_mxn": 3300,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-DON-JULIO-BLANCO",
+      "name": "DON JULIO BLANCO",
+      "category": "bottle",
+      "price_mxn": 2000,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-DON-JULIO-REPOSADO",
+      "name": "DON JULIO REPOSADO",
+      "category": "bottle",
+      "price_mxn": 2200,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-DOUBLE-BLACK-LABEL",
+      "name": "DOUBLE BLACK LABEL",
+      "category": "bottle",
+      "price_mxn": 3000,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-GRAN-MALO",
+      "name": "GRAN MALO",
+      "category": "cocktail",
+      "price_mxn": 1250,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-GREY-GOOSE",
+      "name": "GREY GOOSE",
+      "category": "bottle",
+      "price_mxn": 2000,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-HERRADURA-ULTRA",
+      "name": "HERRADURA ULTRA",
+      "category": "cocktail",
+      "price_mxn": 2200,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-HPNOTIQ",
+      "name": "HPNOTIQ",
+      "category": "cocktail",
+      "price_mxn": 2000,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-JACK-DANIELS",
+      "name": "JACK DANIELS",
+      "category": "cocktail",
+      "price_mxn": 2400,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-JAGERMEISTER",
+      "name": "JAGERMEISTER",
+      "category": "bottle",
+      "price_mxn": 1700,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-MAESTRO-TEQUILERO",
+      "name": "MAESTRO TEQUILERO",
+      "category": "cocktail",
+      "price_mxn": 3000,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-MEZCAL-400-CONEJOS-JOVEN",
+      "name": "MEZCAL 400 CONEJOS JOVEN",
+      "category": "bottle",
+      "price_mxn": 1800,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-MOET",
+      "name": "MOET",
+      "category": "bottle",
+      "price_mxn": 3500,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-NUVO",
+      "name": "NUVO",
+      "category": "bottle",
+      "price_mxn": 2000,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-RED-LABEL",
+      "name": "RED LABEL",
+      "category": "bottle",
+      "price_mxn": 1450,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-SMIRNOFF-TAMARINDO",
+      "name": "SMIRNOFF TAMARINDO",
+      "category": "cocktail",
+      "price_mxn": 1250,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-TEQUILA-1800",
+      "name": "TEQUILA 1800",
+      "category": "bottle",
+      "price_mxn": 2600,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-TITOS",
+      "name": "TITOS",
+      "category": "bottle",
+      "price_mxn": 2000,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-TORRES-10",
+      "name": "TORRES 10",
+      "category": "bottle",
+      "price_mxn": 1500,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-CUB-MICHELOB-ULTRA",
+      "name": "CUB. MICHELOB ULTRA",
+      "category": "beer",
+      "price_mxn": 600,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-CUB-TECATE-LIGHT-1-4",
+      "name": "CUB. TECATE LIGHT 1/4",
+      "category": "beer",
+      "price_mxn": 300,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-CUB-TECATE-ROJA-1-4",
+      "name": "CUB. TECATE ROJA 1/4",
+      "category": "beer",
+      "price_mxn": 300,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-MICHELADA-CLASICA",
+      "name": "MICHELADA CLASICA",
+      "category": "cocktail",
+      "price_mxn": 240,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-MICHELADA-MANGO",
+      "name": "MICHELADA MANGO",
+      "category": "cocktail",
+      "price_mxn": 240,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-MICHELADA-TAMARINDO",
+      "name": "MICHELADA TAMARINDO",
+      "category": "cocktail",
+      "price_mxn": 240,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-MICHELOB-ULTRA",
+      "name": "MICHELOB ULTRA",
+      "category": "beer",
+      "price_mxn": 60,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-TECATE-LIGHT-1-4",
+      "name": "TECATE LIGHT 1/4",
+      "category": "beer",
+      "price_mxn": 30,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-TECATE-ROJA-1-4",
+      "name": "TECATE ROJA 1/4",
+      "category": "beer",
+      "price_mxn": 30,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BARRA-LIBRE",
+      "name": "BARRA LIBRE",
+      "category": "access",
+      "price_mxn": 480,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BOLETO-CORTESIA-COVER",
+      "name": "BOLETO CORTESÍA COVER",
+      "category": "access",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-COVER",
+      "name": "COVER",
+      "category": "access",
+      "price_mxn": 150,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-COVER-50",
+      "name": "COVER 50",
+      "category": "access",
+      "price_mxn": 50,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-COVER-S",
+      "name": "COVER S",
+      "category": "access",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-PASWORD",
+      "name": "PASWORD",
+      "category": "access",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-PULSERA",
+      "name": "PULSERA",
+      "category": "access",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-PULSERA-EXTRA-VIP",
+      "name": "PULSERA EXTRA VIP",
+      "category": "access",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-AMIGA-DATE-CUENTA",
+      "name": "AMIGA DATE CUENTA",
+      "category": "cocktail",
+      "price_mxn": 220,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-AZULITO",
+      "name": "AZULITO",
+      "category": "cocktail",
+      "price_mxn": 220,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-AZULITO-S-A",
+      "name": "AZULITO S/A",
+      "category": "cocktail",
+      "price_mxn": 110,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BACARDI-COCA-COLA",
+      "name": "BACARDI - COCA COLA",
+      "category": "bottle",
+      "price_mxn": 120,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BANANA-COLADA",
+      "name": "BANANA COLADA",
+      "category": "cocktail",
+      "price_mxn": 250,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BELLAKEO-TROPICAL",
+      "name": "BELLAKEO TROPICAL",
+      "category": "cocktail",
+      "price_mxn": 220,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BICHOTA",
+      "name": "BICHOTA",
+      "category": "cocktail",
+      "price_mxn": 220,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BLACK-LABEL-AGUA-MINERAL",
+      "name": "BLACK LABEL - AGUA MINERAL",
+      "category": "bottle",
+      "price_mxn": 150,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BLACK-LABEL-MONSTER",
+      "name": "BLACK LABEL - MONSTER",
+      "category": "bottle",
+      "price_mxn": 170,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BLACK-LABEL-SPRITE",
+      "name": "BLACK LABEL - SPRITE",
+      "category": "bottle",
+      "price_mxn": 150,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BOTE-DE-BASURA",
+      "name": "BOTE DE BASURA",
+      "category": "cocktail",
+      "price_mxn": 260,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BUCHANANS-12-AGUA-MINERAL",
+      "name": "BUCHANANS 12 - AGUA MINERAL",
+      "category": "bottle",
+      "price_mxn": 150,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BUCHANANS-12-MONSTER",
+      "name": "BUCHANANS 12 - MONSTER",
+      "category": "bottle",
+      "price_mxn": 170,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BUCHANANS-12-SPRITE",
+      "name": "BUCHANANS 12 - SPRITE",
+      "category": "bottle",
+      "price_mxn": 150,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BUCHANANS-18-AGUA-MINERAL",
+      "name": "BUCHANANS 18 - AGUA MINERAL",
+      "category": "bottle",
+      "price_mxn": 250,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BUCHANANS-18-SPRITE",
+      "name": "BUCHANANS 18 - SPRITE",
+      "category": "bottle",
+      "price_mxn": 260,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-CAIPIRINA",
+      "name": "CAIPIRIÑA",
+      "category": "cocktail",
+      "price_mxn": 220,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-CAPITAN-MORGAN-COCA-COLA",
+      "name": "CAPITAN MORGAN - COCA COLA",
+      "category": "mixer",
+      "price_mxn": 240,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-CLAMATO-PREPARADO",
+      "name": "CLAMATO PREPARADO",
+      "category": "cocktail",
+      "price_mxn": 150,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-CLANDEDRINK",
+      "name": "CLANDEDRINK",
+      "category": "cocktail",
+      "price_mxn": 220,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-COSMOPOLITAN",
+      "name": "COSMOPOLITAN",
+      "category": "cocktail",
+      "price_mxn": 220,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-EN-LAS-ROCAS-BLACK-LABEL",
+      "name": "EN LAS ROCAS BLACK LABEL",
+      "category": "bottle",
+      "price_mxn": 160,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-EN-LAS-ROCAS-BUCHANANS-12",
+      "name": "EN LAS ROCAS BUCHANANS 12",
+      "category": "bottle",
+      "price_mxn": 180,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-EN-LAS-ROCAS-RED-LABEL",
+      "name": "EN LAS ROCAS RED LABEL",
+      "category": "bottle",
+      "price_mxn": 130,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-FABULOSO",
+      "name": "FABULOSO",
+      "category": "cocktail",
+      "price_mxn": 240,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-JACK-DANIELS-COCA-COLA",
+      "name": "JACK DANIELS - COCA COLA",
+      "category": "mixer",
+      "price_mxn": 150,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-KRIPTONITA",
+      "name": "KRIPTONITA",
+      "category": "cocktail",
+      "price_mxn": 220,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-LUCES-DE-HABANA",
+      "name": "LUCES DE HABANA",
+      "category": "cocktail",
+      "price_mxn": 260,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-LYSOL",
+      "name": "LYSOL",
+      "category": "cocktail",
+      "price_mxn": 220,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-MALIBU-PINA",
+      "name": "MALIBU PIÑA",
+      "category": "cocktail",
+      "price_mxn": 220,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-MANGO-KUSH",
+      "name": "MANGO KUSH",
+      "category": "cocktail",
+      "price_mxn": 580,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-MARGARITA",
+      "name": "MARGARITA",
+      "category": "cocktail",
+      "price_mxn": 220,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-MARGARITA-CHERRY",
+      "name": "MARGARITA CHERRY",
+      "category": "cocktail",
+      "price_mxn": 220,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-MARGARITA-CHERRY-S-A",
+      "name": "MARGARITA CHERRY S/A",
+      "category": "cocktail",
+      "price_mxn": 110,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-MARGARITA-MANGO",
+      "name": "MARGARITA MANGO",
+      "category": "cocktail",
+      "price_mxn": 220,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-MARGARITA-MANGO-S-A",
+      "name": "MARGARITA MANGO S/A",
+      "category": "cocktail",
+      "price_mxn": 110,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-MARGARITA-S-A",
+      "name": "MARGARITA S/A",
+      "category": "cocktail",
+      "price_mxn": 110,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-PALOMA-CLANDESTINA",
+      "name": "PALOMA CLANDESTINA",
+      "category": "cocktail",
+      "price_mxn": 220,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-PALOMA-OAXAQUENA",
+      "name": "PALOMA OAXAQUEÑA",
+      "category": "cocktail",
+      "price_mxn": 220,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-PINA-COLADA",
+      "name": "PIÑA COLADA",
+      "category": "cocktail",
+      "price_mxn": 220,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-PINA-COLADA-S-A",
+      "name": "PIÑA COLADA S/A",
+      "category": "cocktail",
+      "price_mxn": 110,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-RED-LABEL-AGUA-MINERAL",
+      "name": "RED LABEL - AGUA MINERAL",
+      "category": "bottle",
+      "price_mxn": 120,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-RED-LABEL-SPRITE",
+      "name": "RED LABEL - SPRITE",
+      "category": "bottle",
+      "price_mxn": 120,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-REY-MAMABICHO",
+      "name": "REY MAMABICHO",
+      "category": "cocktail",
+      "price_mxn": 220,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-SEX-ON-THE-BEACH",
+      "name": "SEX ON THE BEACH",
+      "category": "cocktail",
+      "price_mxn": 220,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-SUAVITEL",
+      "name": "SUAVITEL",
+      "category": "cocktail",
+      "price_mxn": 240,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-TAMARINDAZO",
+      "name": "TAMARINDAZO",
+      "category": "cocktail",
+      "price_mxn": 220,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-TEQUILA-MINERAL",
+      "name": "TEQUILA MINERAL",
+      "category": "bottle",
+      "price_mxn": 240,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-TEQUILA-SUNRISE",
+      "name": "TEQUILA SUNRISE",
+      "category": "bottle",
+      "price_mxn": 220,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-TITOS-CRANBERRY",
+      "name": "TITOS & CRANBERRY",
+      "category": "bottle",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-TORNADO",
+      "name": "TORNADO",
+      "category": "cocktail",
+      "price_mxn": 220,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-TUSSA",
+      "name": "TUSSA",
+      "category": "cocktail",
+      "price_mxn": 220,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-VODKA-CON-AGUA-MINERAL-1L",
+      "name": "VODKA CON AGUA MINERAL (1L)",
+      "category": "bottle",
+      "price_mxn": 220,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-CARIBE",
+      "name": "CARIBE",
+      "category": "cocktail",
+      "price_mxn": 120,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-FOUR-LOCO",
+      "name": "FOUR LOCO",
+      "category": "cocktail",
+      "price_mxn": 180,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-PULCERAS",
+      "name": "PULCERAS",
+      "category": "cocktail",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-SKY",
+      "name": "SKY",
+      "category": "cocktail",
+      "price_mxn": 120,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-PAQUETE-CUMPLANERO-PREMIUM",
+      "name": "PAQUETE CUMPLAÑERO PREMIUM",
+      "category": "cocktail",
+      "price_mxn": 6000,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-PAQUETE-CUMPLEANERO",
+      "name": "PAQUETE CUMPLEAÑERO",
+      "category": "cocktail",
+      "price_mxn": 4000,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-AMARRAME",
+      "name": "AMARRAME",
+      "category": "cocktail",
+      "price_mxn": 200,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-AZULITO-V-CHICO-GRATIS",
+      "name": "AZULITO V-CHICO (GRATIS)",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-CAIPIRINA-V-CHICO",
+      "name": "CAIPIRIÑA V-CHICO",
+      "category": "cocktail",
+      "price_mxn": 20,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-EL-PADRINO-FREE-DRINK",
+      "name": "EL PADRINO FREE DRINK",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-PALOMA-V-CHICO",
+      "name": "PALOMA V-CHICO",
+      "category": "cocktail",
+      "price_mxn": 20,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-PRIVADO",
+      "name": "PRIVADO",
+      "category": "cocktail",
+      "price_mxn": 200,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-RAINBOW-CHICO-2025",
+      "name": "RAINBOW CHICO 2025",
+      "category": "cocktail",
+      "price_mxn": 20,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-SEX-ON-THE-BEACH-V-CHICO",
+      "name": "SEX ON THE BEACH V-CHICO",
+      "category": "cocktail",
+      "price_mxn": 20,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-AZULITO-V-CHICO",
+      "name": "AZULITO V-CHICO",
+      "category": "cocktail",
+      "price_mxn": 20,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-AGUA",
+      "name": "AGUA",
+      "category": "mixer",
+      "price_mxn": 30,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-AGUA-MINERAL-CH",
+      "name": "AGUA MINERAL CH",
+      "category": "mixer",
+      "price_mxn": 30,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-COCA-COLA",
+      "name": "COCA COLA",
+      "category": "mixer",
+      "price_mxn": 50,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-JUGO-ARANDANO",
+      "name": "JUGO ARANDANO",
+      "category": "mixer",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-JUGO-MANGO",
+      "name": "JUGO MANGO",
+      "category": "mixer",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-JUGO-NARANJA",
+      "name": "JUGO NARANJA",
+      "category": "mixer",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-JUGO-PINA",
+      "name": "JUGO PIÑA",
+      "category": "mixer",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-JUGO-TORONJA",
+      "name": "JUGO TORONJA",
+      "category": "mixer",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-MONSTER",
+      "name": "MONSTER",
+      "category": "mixer",
+      "price_mxn": 110,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-SPRITE",
+      "name": "SPRITE",
+      "category": "mixer",
+      "price_mxn": 50,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-SQUIRT",
+      "name": "SQUIRT",
+      "category": "mixer",
+      "price_mxn": 50,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-PERLA-NEGRA-2X1",
+      "name": "PERLA NEGRA 2X1",
+      "category": "cocktail",
+      "price_mxn": 130,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-RONDA-BABY-MANGO",
+      "name": "RONDA BABY MANGO",
+      "category": "shots_and_buckets",
+      "price_mxn": 250,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-RONDA-MAMADAS",
+      "name": "RONDA MAMADAS",
+      "category": "shots_and_buckets",
+      "price_mxn": 360,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-RONDA-PERLAS-NEGRAS",
+      "name": "RONDA PERLAS NEGRAS",
+      "category": "shots_and_buckets",
+      "price_mxn": 720,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-RONDA-RAINBOW",
+      "name": "RONDA RAINBOW",
+      "category": "shots_and_buckets",
+      "price_mxn": 250,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-RONDA-TAMARINDAZO",
+      "name": "RONDA TAMARINDAZO",
+      "category": "shots_and_buckets",
+      "price_mxn": 240,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-SHOT-BACANORA",
+      "name": "SHOT BACANORA",
+      "category": "shots_and_buckets",
+      "price_mxn": 120,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-SHOT-BARULLO",
+      "name": "SHOT BARULLO",
+      "category": "shots_and_buckets",
+      "price_mxn": 150,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-SHOT-CAPITAN-MORGAN",
+      "name": "SHOT CAPITAN MORGAN",
+      "category": "shots_and_buckets",
+      "price_mxn": 60,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-SHOT-CORTESIA",
+      "name": "SHOT CORTESIA",
+      "category": "shots_and_buckets",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-SHOT-DON-JULIO-70",
+      "name": "SHOT DON JULIO 70",
+      "category": "bottle",
+      "price_mxn": 150,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-SHOT-HORNITOS-REPOSADO",
+      "name": "SHOT HORNITOS REPOSADO",
+      "category": "shots_and_buckets",
+      "price_mxn": 120,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-SHOT-MAESTRO-TEQUILERO",
+      "name": "SHOT MAESTRO TEQUILERO",
+      "category": "shots_and_buckets",
+      "price_mxn": 120,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-SHOT-PERLA-NEGRA",
+      "name": "SHOT PERLA NEGRA",
+      "category": "shots_and_buckets",
+      "price_mxn": 130,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-SHOT-TEQUILA-MANGO",
+      "name": "SHOT TEQUILA MANGO",
+      "category": "bottle",
+      "price_mxn": 60,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-SHOT-VODKA-TAMARINDO",
+      "name": "SHOT VODKA TAMARINDO",
+      "category": "bottle",
+      "price_mxn": 60,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-3X2-CUBETA-TECATE-1-4-BLANCA",
+      "name": "3X2 CUBETA TECATE 1/4 BLANCA",
+      "category": "beer",
+      "price_mxn": 600,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-3X2-CUBETA-TECATE-1-4-ROJA",
+      "name": "3X2 CUBETA TECATE 1/4 ROJA",
+      "category": "beer",
+      "price_mxn": 600,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-911-DRINK",
+      "name": "911 DRINK",
+      "category": "cocktail",
+      "price_mxn": 350,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-AZULITO-3X2-SUSPENDIDO",
+      "name": "AZULITO 3X2 SUSPENDIDO",
+      "category": "cocktail",
+      "price_mxn": 440,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-AZULITO-CHICO-S-A-2025",
+      "name": "AZULITO CHICO S/A 2025",
+      "category": "cocktail",
+      "price_mxn": 30,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-AZULITO-PROMO",
+      "name": "AZULITO PROMO",
+      "category": "cocktail",
+      "price_mxn": 240,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-AZULITO-S-A-V-CHICO",
+      "name": "AZULITO S/A V-CHICO",
+      "category": "cocktail",
+      "price_mxn": 20,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BABY-MANGO",
+      "name": "BABY MANGO",
+      "category": "cocktail",
+      "price_mxn": 240,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BARBIE-START",
+      "name": "BARBIE START",
+      "category": "cocktail",
+      "price_mxn": 240,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BARRA-LIBRE-CERVEZA",
+      "name": "BARRA LIBRE CERVEZA",
+      "category": "beer",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-BARRA-LIBRE-DINCK",
+      "name": "BARRA LIBRE DINCK",
+      "category": "access",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-BEBIDA-SIN-ALCOHOL",
+      "name": "BEBIDA SIN ALCOHOL",
+      "category": "cocktail",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BLACK-LABEL-1LT",
+      "name": "BLACK LABEL 1LT",
+      "category": "bottle",
+      "price_mxn": 3200,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BLUE-HAWAII",
+      "name": "BLUE HAWAII",
+      "category": "cocktail",
+      "price_mxn": 240,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BOLETO",
+      "name": "BOLETO",
+      "category": "access",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-BOLETO-CORTESIA-SHOT",
+      "name": "BOLETO CORTESÍA SHOT",
+      "category": "access",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-BOT-CHAMPAGNE-DE-LA-CASA-CUMPLEANERO",
+      "name": "BOT CHAMPAGNE DE LA CASA CUMPLEANERO",
+      "category": "bottle",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-BOT-DOUBLE-BLACK-LABEL-1LT-2025",
+      "name": "BOT DOUBLE BLACK LABEL 1LT 2025",
+      "category": "bottle",
+      "price_mxn": 3400,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BOT-RED-LABEL-JW-1LITRO-2025",
+      "name": "BOT RED LABEL JW 1LITRO 2025",
+      "category": "bottle",
+      "price_mxn": 2400,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BOT-TEQUILA-CLANDESTINOZ",
+      "name": "BOT TEQUILA CLANDESTINOZ",
+      "category": "bottle",
+      "price_mxn": 1700,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BOTE-TECATE-BLANCO",
+      "name": "BOTE TECATE BLANCO",
+      "category": "beer",
+      "price_mxn": 35,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BOTE-TECATE-ROJO",
+      "name": "BOTE TECATE ROJO",
+      "category": "beer",
+      "price_mxn": 35,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BOTELLA",
+      "name": "BOTELLA",
+      "category": "bottle",
+      "price_mxn": 685,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-BUZZBALL",
+      "name": "BUZZBALL",
+      "category": "cocktail",
+      "price_mxn": 80,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-CAGUAMA-HIGH-MILLER",
+      "name": "CAGUAMA HIGH MILLER",
+      "category": "beer",
+      "price_mxn": 155,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-CAGUAMA-TECATE-BLANCA",
+      "name": "CAGUAMA TECATE BLANCA",
+      "category": "beer",
+      "price_mxn": 110,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-CAGUAMA-TECATE-ROJA",
+      "name": "CAGUAMA TECATE ROJA",
+      "category": "beer",
+      "price_mxn": 110,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-CAMPIRINA",
+      "name": "CAMPIRINA",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-CHAMPGNE-BOTTEGA",
+      "name": "CHAMPGNE BOTTEGA",
+      "category": "cocktail",
+      "price_mxn": 3000,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-CHUPACABRAS",
+      "name": "CHUPACABRAS",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-CLANDEWINDEX",
+      "name": "CLANDEWINDEX",
+      "category": "cocktail",
+      "price_mxn": 220,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-COCA-COLA-LIHGT",
+      "name": "COCA COLA LIHGT",
+      "category": "mixer",
+      "price_mxn": 50,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-COCA-COLA-V-CHICO",
+      "name": "COCA COLA V-CHICO",
+      "category": "mixer",
+      "price_mxn": 20,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-COVER-150",
+      "name": "COVER $150",
+      "category": "access",
+      "price_mxn": 150,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-CUBETA-BOTE-BLANCO",
+      "name": "CUBETA BOTE BLANCO",
+      "category": "beer",
+      "price_mxn": 350,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-CUBETA-BOTE-ROJO",
+      "name": "CUBETA BOTE ROJO",
+      "category": "beer",
+      "price_mxn": 350,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-CUBETA-TECATE-1-4-MIXTA",
+      "name": "CUBETA TECATE 1/4 MIXTA",
+      "category": "beer",
+      "price_mxn": 270,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-CUBETA-TECATE-BOTE",
+      "name": "CUBETA TECATE BOTE",
+      "category": "beer",
+      "price_mxn": 440,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-DADDY-MANGO",
+      "name": "DADDY MANGO",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-DAIQUIRI-DE-FRESA",
+      "name": "DAIQUIRI DE FRESA",
+      "category": "cocktail",
+      "price_mxn": 30,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-DAIQUIRI-DE-MANGO",
+      "name": "DAIQUIRI DE MANGO",
+      "category": "cocktail",
+      "price_mxn": 30,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-DON-JULIO-1-500",
+      "name": "DON JULIO $1,500",
+      "category": "bottle",
+      "price_mxn": 1500,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-DON-JULIO-Y-RED-LABEL",
+      "name": "DON JULIO Y RED LABEL",
+      "category": "bottle",
+      "price_mxn": 3300,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-EFECTO-ELEVADO-2025",
+      "name": "EFECTO ELEVADO 2025",
+      "category": "cocktail",
+      "price_mxn": 240,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-FRESA-TENTADORA",
+      "name": "FRESA TENTADORA",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-FRESCA-2025",
+      "name": "FRESCA 2025",
+      "category": "cocktail",
+      "price_mxn": 50,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-FRESCA-BOTE",
+      "name": "FRESCA BOTE",
+      "category": "cocktail",
+      "price_mxn": 30,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-GOOD-BYE-MADAFAKERS",
+      "name": "GOOD BYE MADAFAKERS",
+      "category": "cocktail",
+      "price_mxn": 240,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-JBALVIN-COLORES",
+      "name": "JBALVIN (COLORES)",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-JUDAS",
+      "name": "JUDAS",
+      "category": "cocktail",
+      "price_mxn": 240,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-JUGO-DE-ARANDANO",
+      "name": "JUGO DE ARANDANO",
+      "category": "mixer",
+      "price_mxn": 30,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-JUGO-DE-PINA",
+      "name": "JUGO DE PIÑA",
+      "category": "mixer",
+      "price_mxn": 30,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-LIGHT",
+      "name": "LIGHT",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-LIMONADA",
+      "name": "LIMONADA",
+      "category": "cocktail",
+      "price_mxn": 30,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-MAESTRO-DOBEL-TEQUILERO",
+      "name": "MAESTRO DOBEL TEQUILERO",
+      "category": "cocktail",
+      "price_mxn": 3000,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-MAMADAS",
+      "name": "MAMADAS",
+      "category": "cocktail",
+      "price_mxn": 220,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-MANGO-CUSH",
+      "name": "MANGO CUSH",
+      "category": "cocktail",
+      "price_mxn": 600,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-MARGARITA-CHERRY-S-A-V-CHICO",
+      "name": "MARGARITA CHERRY S/A V-CHICO",
+      "category": "cocktail",
+      "price_mxn": 20,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-MARGARITA-CHICA-S-A-2025",
+      "name": "MARGARITA CHICA S/A 2025",
+      "category": "cocktail",
+      "price_mxn": 30,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-MARGARITA-DE-LIMON-S-A",
+      "name": "MARGARITA DE LIMON S/A",
+      "category": "cocktail",
+      "price_mxn": 130,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-MARGARITA-DE-LIMON-S-A-2025",
+      "name": "MARGARITA DE LIMON S/A 2025",
+      "category": "cocktail",
+      "price_mxn": 130,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-MARGARITA-LIMON-2025",
+      "name": "MARGARITA LIMON 2025",
+      "category": "cocktail",
+      "price_mxn": 240,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-MARGARITA-MANGO-S-A-V-CHICO",
+      "name": "MARGARITA MANGO S/A V-CHICO",
+      "category": "cocktail",
+      "price_mxn": 20,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-MARGARITA-S-A-V-CHICO",
+      "name": "MARGARITA S/A V-CHICO",
+      "category": "cocktail",
+      "price_mxn": 20,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-MESA-GENERAL",
+      "name": "MESA GENERAL",
+      "category": "cocktail",
+      "price_mxn": 300,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-MICHELADA",
+      "name": "MICHELADA",
+      "category": "cocktail",
+      "price_mxn": 180,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-MICHELADA-CLANDESTINA-2025",
+      "name": "MICHELADA CLANDESTINA 2025",
+      "category": "cocktail",
+      "price_mxn": 240,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-MUNECA-2025",
+      "name": "MUÑECA 2025",
+      "category": "cocktail",
+      "price_mxn": 240,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-PALOMA-JARRITO",
+      "name": "PALOMA JARRITO",
+      "category": "cocktail",
+      "price_mxn": 120,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-PERLA-NEGRA-VIP",
+      "name": "PERLA NEGRA VIP",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-PINA",
+      "name": "PINA",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-PINK-DRINK",
+      "name": "PINK DRINK",
+      "category": "cocktail",
+      "price_mxn": 150,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-PINA-COLADA-CHICA-S-A-2025",
+      "name": "PIÑA COLADA CHICA S/A 2025",
+      "category": "cocktail",
+      "price_mxn": 30,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-PINA-COLADA-S-A-V-CHICO",
+      "name": "PIÑA COLADA S/A V-CHICO",
+      "category": "cocktail",
+      "price_mxn": 20,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-PINA-TROPICAL",
+      "name": "PIÑA TROPICAL",
+      "category": "cocktail",
+      "price_mxn": 220,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-POWERADE-MORA",
+      "name": "POWERADE MORA",
+      "category": "cocktail",
+      "price_mxn": 30,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-POWERADE-V-CHICO",
+      "name": "POWERADE V-CHICO",
+      "category": "cocktail",
+      "price_mxn": 20,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-PROM-BICHOTA",
+      "name": "PROM BICHOTA",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-PROMO-AZULITO",
+      "name": "PROMO AZULITO",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-PROMO-BARRA-LIBRE-20-USD",
+      "name": "PROMO BARRA LIBRE 20 USD",
+      "category": "access",
+      "price_mxn": 360,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-PROMO-CAIPIRINA",
+      "name": "PROMO CAIPIRINA",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-PROMO-PALOMA-CLANDESITINA",
+      "name": "PROMO PALOMA CLANDESITINA",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-PROMO-RED-LABEL",
+      "name": "PROMO RED LABEL",
+      "category": "bottle",
+      "price_mxn": 2200,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-PULCERA-EXTRA",
+      "name": "PULCERA EXTRA",
+      "category": "cocktail",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-PULSERA-COVER",
+      "name": "PULSERA COVER",
+      "category": "access",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-RAINBOW-S-A-2025",
+      "name": "RAINBOW S/A 2025",
+      "category": "cocktail",
+      "price_mxn": 130,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-RASBERRY-SPLASH",
+      "name": "RASBERRY SPLASH",
+      "category": "cocktail",
+      "price_mxn": 220,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-RED-LABEL-750-ML",
+      "name": "RED LABEL 750 ML",
+      "category": "bottle",
+      "price_mxn": 1450,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-REFIL-PALOMA-JARRITO",
+      "name": "REFIL PALOMA JARRITO",
+      "category": "cocktail",
+      "price_mxn": 80,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-ROJA",
+      "name": "ROJA",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-RONDA-TEQUILA-CLANDESTINOZ",
+      "name": "RONDA TEQUILA CLANDESTINOZ",
+      "category": "bottle",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-SERVILLETAS",
+      "name": "SERVILLETAS",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-SEX-ON-THE-BICH",
+      "name": "SEX ON THE BICH",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-SHOT-DON-JULIO-2X150",
+      "name": "SHOT DON JULIO 2X150",
+      "category": "bottle",
+      "price_mxn": 150,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-SHOT-TAMARINDAZO",
+      "name": "SHOT TAMARINDAZO",
+      "category": "shots_and_buckets",
+      "price_mxn": 130,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-SHOT-TEQUILA-CLANDESTINOZ",
+      "name": "SHOT TEQUILA CLANDESTINOZ",
+      "category": "bottle",
+      "price_mxn": 110,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-SKY-ROCKET",
+      "name": "SKY ROCKET",
+      "category": "cocktail",
+      "price_mxn": 220,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-SNOOP-SANCK-2025",
+      "name": "SNOOP SANCK 2025",
+      "category": "cocktail",
+      "price_mxn": 240,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-SODA",
+      "name": "SODA",
+      "category": "cocktail",
+      "price_mxn": 30,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-SPRITE-BOTE",
+      "name": "SPRITE BOTE",
+      "category": "mixer",
+      "price_mxn": 30,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-SPRITE-V-CHICO",
+      "name": "SPRITE V-CHICO",
+      "category": "mixer",
+      "price_mxn": 20,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-SQUIRT-V-CHICO",
+      "name": "SQUIRT V-CHICO",
+      "category": "mixer",
+      "price_mxn": 20,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-TECATE-BOTE",
+      "name": "TECATE BOTE",
+      "category": "beer",
+      "price_mxn": 45,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-TECATE-BOTE-BLANCO",
+      "name": "TECATE BOTE BLANCO",
+      "category": "beer",
+      "price_mxn": 35,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-TEQUILA-SUNRICE",
+      "name": "TEQUILA SUNRICE",
+      "category": "bottle",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-TRAGO-DON-JULIO-70",
+      "name": "TRAGO DON JULIO 70",
+      "category": "bottle",
+      "price_mxn": 300,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-TRAGO-ETIQUETA-NEGRA",
+      "name": "TRAGO ETIQUETA NEGRA",
+      "category": "cocktail",
+      "price_mxn": 300,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-TRAGO-WHISKY",
+      "name": "TRAGO WHISKY",
+      "category": "cocktail",
+      "price_mxn": 240,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-TRAGOS-BARRA-LIBRE",
+      "name": "TRAGOS BARRA LIBRE",
+      "category": "access",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-TWISTED-TEA",
+      "name": "TWISTED TEA",
+      "category": "cocktail",
+      "price_mxn": 70,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-VIP",
+      "name": "VIP",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-VIRGIN-SUNRISE",
+      "name": "VIRGIN SUNRISE",
+      "category": "cocktail",
+      "price_mxn": 120,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-WHISKY-EN-LAS-ROCAS",
+      "name": "WHISKY EN LAS ROCAS",
+      "category": "cocktail",
+      "price_mxn": 170,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-YARDA",
+      "name": "YARDA",
+      "category": "cocktail",
+      "price_mxn": 50,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-MESA",
+      "name": "MESA",
+      "category": "cocktail",
+      "price_mxn": 300,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-PUL-EXT",
+      "name": "PUL. EXT.",
+      "category": "cocktail",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-RESERVACIONES-VIP-EFEC",
+      "name": "RESERVACIONES VIP EFEC",
+      "category": "cocktail",
+      "price_mxn": 1000,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-VALE-VIP-13",
+      "name": "VALE VIP-13",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-VALE-VIP-14",
+      "name": "VALE VIP-14",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-VALE-VIP-16",
+      "name": "VALE VIP-16",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-VALE-VIP-17",
+      "name": "VALE VIP-17",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-VALE-VIP-18",
+      "name": "VALE VIP-18",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-VALE-VIP-32",
+      "name": "VALE VIP-32",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-VALE-VIP-33",
+      "name": "VALE VIP-33",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-VALE-VIP-34",
+      "name": "VALE VIP-34",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-VALE-VIP-35",
+      "name": "VALE VIP-35",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-VALE-VIP-36",
+      "name": "VALE VIP-36",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-VALE-VIP-37",
+      "name": "VALE VIP-37",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-VALE-VIP-38",
+      "name": "VALE VIP-38",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-VALE-VIP-39",
+      "name": "VALE VIP-39",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-VALE-VIP-40",
+      "name": "VALE VIP-40",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-VALE-VIP-41",
+      "name": "VALE VIP-41",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-VALE-VIP-42",
+      "name": "VALE VIP-42",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-VALE-VIP-43",
+      "name": "VALE VIP-43",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-VALE-VIP-44",
+      "name": "VALE VIP-44",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-VALE-VIP-45",
+      "name": "VALE VIP-45",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-VALE-VIP-46",
+      "name": "VALE VIP-46",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-VALE-VIP-47",
+      "name": "VALE VIP-47",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-VALE-VIP-48",
+      "name": "VALE VIP-48",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-VALE-VIP-49",
+      "name": "VALE VIP-49",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-VALE-VIP-50",
+      "name": "VALE VIP-50",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-VALE-VIP-51",
+      "name": "VALE VIP-51",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-VALE-VIP-52",
+      "name": "VALE VIP-52",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-VALE-VIP-53",
+      "name": "VALE VIP-53",
+      "category": "cocktail",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false
+    },
+    {
+      "sku": "SALE-VIP-13-PUL-EXT",
+      "name": "VIP-13 PUL. EXT.",
+      "category": "cocktail",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-VIP-14-PUL-EXT",
+      "name": "VIP-14 PUL. EXT.",
+      "category": "cocktail",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-VIP-16-PUL-EXT",
+      "name": "VIP-16 PUL. EXT.",
+      "category": "cocktail",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-VIP-17-PUL-EXT",
+      "name": "VIP-17 PUL. EXT.",
+      "category": "cocktail",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-VIP-18-PUL-EXT",
+      "name": "VIP-18 PUL. EXT.",
+      "category": "cocktail",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-VIP-32-PUL-EXT",
+      "name": "VIP-32 PUL. EXT.",
+      "category": "cocktail",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-VIP-33-PUL-EXT",
+      "name": "VIP-33 PUL. EXT.",
+      "category": "cocktail",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-VIP-34-PUL-EXT",
+      "name": "VIP-34 PUL. EXT.",
+      "category": "cocktail",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-VIP-35-PUL-EXT",
+      "name": "VIP-35 PUL. EXT.",
+      "category": "cocktail",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-VIP-36-PUL-EXT",
+      "name": "VIP-36 PUL. EXT.",
+      "category": "cocktail",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-VIP-37-PUL-EXT",
+      "name": "VIP-37 PUL. EXT.",
+      "category": "cocktail",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-VIP-38-PUL-EXT",
+      "name": "VIP-38 PUL. EXT.",
+      "category": "cocktail",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-VIP-39-PUL-EXT",
+      "name": "VIP-39 PUL. EXT.",
+      "category": "cocktail",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-VIP-40-PUL-EXT",
+      "name": "VIP-40 PUL. EXT.",
+      "category": "cocktail",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-VIP-41-PUL-EXT",
+      "name": "VIP-41 PUL. EXT.",
+      "category": "cocktail",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-VIP-42-PUL-EXT",
+      "name": "VIP-42 PUL. EXT.",
+      "category": "cocktail",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-VIP-43-PUL-EXT",
+      "name": "VIP-43 PUL. EXT.",
+      "category": "cocktail",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-VIP-44-PUL-EXT",
+      "name": "VIP-44 PUL. EXT.",
+      "category": "cocktail",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-VIP-45-PUL-EXT",
+      "name": "VIP-45 PUL. EXT.",
+      "category": "cocktail",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-VIP-46-PUL-EXT",
+      "name": "VIP-46 PUL. EXT.",
+      "category": "cocktail",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-VIP-47-PUL-EXT",
+      "name": "VIP-47 PUL. EXT.",
+      "category": "cocktail",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-VIP-48-PUL-EXT",
+      "name": "VIP-48 PUL. EXT.",
+      "category": "cocktail",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-VIP-49-PUL-EXT",
+      "name": "VIP-49 PUL. EXT.",
+      "category": "cocktail",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-VIP-50-PUL-EXT",
+      "name": "VIP-50 PUL. EXT.",
+      "category": "cocktail",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-VIP-51-PUL-EXT",
+      "name": "VIP-51 PUL. EXT.",
+      "category": "cocktail",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-VIP-52-PUL-EXT",
+      "name": "VIP-52 PUL. EXT.",
+      "category": "cocktail",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "SALE-VIP-53-PUL-EXT",
+      "name": "VIP-53 PUL. EXT.",
+      "category": "cocktail",
+      "price_mxn": 100,
+      "unit": "unit",
+      "active": true
+    },
+    {
+      "sku": "ING-002110",
+      "name": "TEQUILA 30-30 AÑEJO652.59",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "002110"
+    },
+    {
+      "sku": "ING-002109",
+      "name": "TEQUILA 30-30 BLANCO",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "002109"
+    },
+    {
+      "sku": "ING-002107",
+      "name": "TEQUILA 30-30 CRISTALINO",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "002107"
+    },
+    {
+      "sku": "ING-002108",
+      "name": "TEQUILA 30-30 REPOSADO",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "002108"
+    },
+    {
+      "sku": "ING-001051",
+      "name": "TECATE LIGHT",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001051"
+    },
+    {
+      "sku": "ING-001059",
+      "name": "TECATE ROJA",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001059"
+    },
+    {
+      "sku": "ING-001026",
+      "name": "GINEBRA (SUSPENDIDO)",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001026"
+    },
+    {
+      "sku": "ING-001027",
+      "name": "LICOR CARIBU DURAZNO - (1L -",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001027"
+    },
+    {
+      "sku": "ING-001002",
+      "name": "LICOR CARIBU TRIPLE SEC - (1L",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001002"
+    },
+    {
+      "sku": "ING-001004",
+      "name": "SPRITE - (3L - 99 OZ / 2L - 66 OZ",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001004"
+    },
+    {
+      "sku": "ING-001024",
+      "name": "VODKA ZAVERICH - (1L - 33 OZ)",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001024"
+    },
+    {
+      "sku": "ING-002070",
+      "name": "VODKA ABSOLUT - (750 ML)",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "002070"
+    },
+    {
+      "sku": "ING-001056",
+      "name": "VODKA ABSOLUT LIMON - (750 M",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001056"
+    },
+    {
+      "sku": "ING-004014",
+      "name": "VODKA ABSOLUT MANGO - (750",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "004014"
+    },
+    {
+      "sku": "ING-001057",
+      "name": "VODKA ABSOLUT PERA - (750 M",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001057"
+    },
+    {
+      "sku": "ING-001058",
+      "name": "VODKA ABSOLUT RASPBERRY",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001058"
+    },
+    {
+      "sku": "ING-002068",
+      "name": "VODKA ABSOLUT SANDIA - (750",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "002068"
+    },
+    {
+      "sku": "ING-001054",
+      "name": "AGUA",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001054"
+    },
+    {
+      "sku": "ING-003024",
+      "name": "AGUA MINERAL - (355 ML)",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "003024"
+    },
+    {
+      "sku": "ING-001030",
+      "name": "JUGO ARANDANO - (1L - 33 OZ)",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001030"
+    },
+    {
+      "sku": "ING-002071",
+      "name": "RON ANTILLANO BLANCO - (1L -",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "002071"
+    },
+    {
+      "sku": "ING-001032",
+      "name": "RON MALIBU - (750 ML - 25 OZ)",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001032"
+    },
+    {
+      "sku": "ING-001010",
+      "name": "TEQUILA MANGO AZUL - (700 M",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001010"
+    },
+    {
+      "sku": "ING-001008",
+      "name": "AGUA MINERAL - (2L - 66 OZ)",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001008"
+    },
+    {
+      "sku": "ING-001007",
+      "name": "LICOR CARIBU CURACAO AZUL",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001007"
+    },
+    {
+      "sku": "ING-004007",
+      "name": "VODKA OSO NEGRO - (1L - 33 O",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "004007"
+    },
+    {
+      "sku": "ING-001037",
+      "name": "POWERADE - (1L - 33 OZ)",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001037"
+    },
+    {
+      "sku": "ING-001011",
+      "name": "CONCENTRADO MANGO - (1L -",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001011"
+    },
+    {
+      "sku": "ING-001039",
+      "name": "JUGO MANGO - (1L - 33 OZ)",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001039"
+    },
+    {
+      "sku": "ING-001052",
+      "name": "RON BACARDI BLANCO - (750 M",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001052"
+    },
+    {
+      "sku": "ING-006024",
+      "name": "COCA COLA - (3L - 99 OZ)",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "006024"
+    },
+    {
+      "sku": "ING-001043",
+      "name": "RON BACARDI LIMON - (750 ML",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001043"
+    },
+    {
+      "sku": "ING-001012",
+      "name": "RON BACARDI MANGO - (750 M",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001012"
+    },
+    {
+      "sku": "ING-001006",
+      "name": "RON BACARDI RASPBERRY - (7",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001006"
+    },
+    {
+      "sku": "ING-001034",
+      "name": "CALAHUA - (1L - 33 OZ)",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001034"
+    },
+    {
+      "sku": "ING-001009",
+      "name": "JUGO PIÑA - (1L - 33 OZ)",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001009"
+    },
+    {
+      "sku": "ING-001023",
+      "name": "FRESCA 3 L (SUSPENDIDO)",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001023"
+    },
+    {
+      "sku": "ING-001042",
+      "name": "GLITTER (SUSPENDIDO)",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001042"
+    },
+    {
+      "sku": "ING-001013",
+      "name": "LICOR GRANADINA - (1L - 33 OZ",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001013"
+    },
+    {
+      "sku": "ING-001079",
+      "name": "TEQUILA (CABRITOS, HERENCIA",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001079"
+    },
+    {
+      "sku": "ING-002113",
+      "name": "TEQUILA BARULLO SANDIA",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "002113"
+    },
+    {
+      "sku": "ING-001017",
+      "name": "NARANJADA - (2L - 66 OZ)",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001017"
+    },
+    {
+      "sku": "ING-001074",
+      "name": "WHISKY BLACK LABEL - (750 ML",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001074"
+    },
+    {
+      "sku": "ING-001021",
+      "name": "MONSTER - (473 ML - 16 OZ)",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001021"
+    },
+    {
+      "sku": "ING-001040",
+      "name": "CARNATION - (1L - 33 OZ / 340 M",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001040"
+    },
+    {
+      "sku": "ING-001022",
+      "name": "WHISKY BLUE LABEL",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001022"
+    },
+    {
+      "sku": "ING-002069",
+      "name": "VODKA BOMBAY",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "002069"
+    },
+    {
+      "sku": "ING-001001",
+      "name": "VINO ESPUMOSO CHAMPAGNE",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001001"
+    },
+    {
+      "sku": "ING-001075",
+      "name": "WHISKY DOUBLE BLACK LABEL",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001075"
+    },
+    {
+      "sku": "ING-001018",
+      "name": "WHISKEY RED LABEL - (700 ML",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001018"
+    },
+    {
+      "sku": "ING-001029",
+      "name": "TEQUILA DE LA CASA (SUSPEN",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001029"
+    },
+    {
+      "sku": "ING-002076",
+      "name": "GINEBRA OSO NEGRO - (1L -",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "002076"
+    },
+    {
+      "sku": "ING-004020",
+      "name": "BOTE TECATE BLANCO (SUSPE",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "004020"
+    },
+    {
+      "sku": "ING-004019",
+      "name": "BOTE TECATE ROJO (SUSPEND",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "004019"
+    },
+    {
+      "sku": "ING-001070",
+      "name": "TEQUILA MAESTRO DOBEL - (70",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001070"
+    },
+    {
+      "sku": "ING-001076",
+      "name": "WHISKY BUCHANNANS 12 - (750",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001076"
+    },
+    {
+      "sku": "ING-001077",
+      "name": "WHISKY BUCHANNANS 18 - (750",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001077"
+    },
+    {
+      "sku": "ING-002111",
+      "name": "WHISKY BUCHANNANS 21 *RED",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "002111"
+    },
+    {
+      "sku": "ING-002061",
+      "name": "WHISKY BUCHANNANS MASTER",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "002061"
+    },
+    {
+      "sku": "ING-002062",
+      "name": "WHISKY BUCHANNANS PIÑA",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "002062"
+    },
+    {
+      "sku": "ING-001087",
+      "name": "BUZZBALL (SUSPENDIDO)",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001087"
+    },
+    {
+      "sku": "ING-001089",
+      "name": "CAGUAMA MILLER (SUSPENDID",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001089"
+    },
+    {
+      "sku": "ING-001090",
+      "name": "CAGUAMA TECATE BLANCA (SU",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001090"
+    },
+    {
+      "sku": "ING-001073",
+      "name": "CAGUAMA TECATE ROJA (SUSP",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001073"
+    },
+    {
+      "sku": "ING-001005",
+      "name": "LICOR JARABE NATURAL - (1L -",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001005"
+    },
+    {
+      "sku": "ING-003026",
+      "name": "SQUIRT GRANDE (3L - 99 OZ /",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "003026"
+    },
+    {
+      "sku": "ING-001020",
+      "name": "RON CAPITAN MORGAN - (700 M",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001020"
+    },
+    {
+      "sku": "ING-001094",
+      "name": "CARIBE COOLER - SUSPENDIDO",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001094"
+    },
+    {
+      "sku": "ING-001046",
+      "name": "LICOR JAGERMEISTER - (700 M",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001046"
+    },
+    {
+      "sku": "ING-001050",
+      "name": "CLAMATO - ( 2.54L - 85 OZ)",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001050"
+    },
+    {
+      "sku": "ING-001068",
+      "name": "TEQUILA CLASE AZUL",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001068"
+    },
+    {
+      "sku": "ING-001062",
+      "name": "COCA COLA - (355 ML)",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001062"
+    },
+    {
+      "sku": "ING-001093",
+      "name": "COCA COLA LIGHT - (SUSPEND",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001093"
+    },
+    {
+      "sku": "ING-001082",
+      "name": "VINO ESPUMOSO DOM PERIGN",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001082"
+    },
+    {
+      "sku": "ING-001067",
+      "name": "TEQUILA DON JULIO",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001067"
+    },
+    {
+      "sku": "ING-001033",
+      "name": "TEQUILA DON JULIO 70 - (23 OZ",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001033"
+    },
+    {
+      "sku": "ING-001065",
+      "name": "TEQUILA DON JULIO BLANCO",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001065"
+    },
+    {
+      "sku": "ING-001066",
+      "name": "TEQUILA DON JULIO REPOSAD",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001066"
+    },
+    {
+      "sku": "ING-001084",
+      "name": "VODKA SMIRNOF TAMARINDO -",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001084"
+    },
+    {
+      "sku": "ING-001016",
+      "name": "VODKA TAMARINDO (SUSPEND",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001016"
+    },
+    {
+      "sku": "ING-001028",
+      "name": "FOUR LOKO",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001028"
+    },
+    {
+      "sku": "ING-001035",
+      "name": "CREMA BATIDA - (425 GR - 12 O",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001035"
+    },
+    {
+      "sku": "ING-001045",
+      "name": "HERSHEYS DE FRESA (SUSPEN",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001045"
+    },
+    {
+      "sku": "ING-001044",
+      "name": "LICOR BAILEYS - (1L - 33 OZ)",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001044"
+    },
+    {
+      "sku": "ING-001064",
+      "name": "FRESCA .355 ML (SUSPENDIDO",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001064"
+    },
+    {
+      "sku": "ING-001069",
+      "name": "TEQUILA GRAN MALO",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001069"
+    },
+    {
+      "sku": "ING-001083",
+      "name": "VODKA GREY GOOSE",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001083"
+    },
+    {
+      "sku": "ING-001071",
+      "name": "TEQUILA HERRADURA ULTRA",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001071"
+    },
+    {
+      "sku": "ING-001080",
+      "name": "LICOR HPNOTIQ",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001080"
+    },
+    {
+      "sku": "ING-001078",
+      "name": "WHISKY JACK DANIELS - (700 M",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001078"
+    },
+    {
+      "sku": "ING-001041",
+      "name": "JUGO NARANJA - (1L - 33 OZ)",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001041"
+    },
+    {
+      "sku": "ING-001053",
+      "name": "LICOR CARIBU MELON - (1L -",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001053"
+    },
+    {
+      "sku": "ING-002080",
+      "name": "VINO - (750 ML - 25 OZ)",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "002080"
+    },
+    {
+      "sku": "ING-004021",
+      "name": "JUGO TORONJA - (1L - 33 OZ)",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "004021"
+    },
+    {
+      "sku": "ING-002096",
+      "name": "MAESTRO DOBEL (SUSPENDID",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "002096"
+    },
+    {
+      "sku": "ING-001048",
+      "name": "LICOR KALHUA - (1L - 33 OZ)",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001048"
+    },
+    {
+      "sku": "ING-002112",
+      "name": "MEZCAL 400 CONEJOS (JOVEN",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "002112"
+    },
+    {
+      "sku": "ING-001049",
+      "name": "PETROLEO (SUSPENDIDO)0",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001049"
+    },
+    {
+      "sku": "ING-001061",
+      "name": "CONCENTRADO TAMARINDO - (",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001061"
+    },
+    {
+      "sku": "ING-001081",
+      "name": "VINO ESPUMOSO MOET",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001081"
+    },
+    {
+      "sku": "ING-001095",
+      "name": "LICOR DE GUANABANA (SUSPE",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001095"
+    },
+    {
+      "sku": "ING-001025",
+      "name": "VODKA NUVO - SUSPENDIDO",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001025"
+    },
+    {
+      "sku": "ING-002086",
+      "name": "RON BACANORA - (1L - 33 OZ)",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "002086"
+    },
+    {
+      "sku": "ING-004015",
+      "name": "PIÑA (SUSPENDIDO)",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "004015"
+    },
+    {
+      "sku": "ING-001015",
+      "name": "ALMIBAR CHERRY (SUSPENDID",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "001015"
+    },
+    {
+      "sku": "ING-002099",
+      "name": "TEQUILA DON JULIO 70 (SUSPE",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "002099"
+    },
+    {
+      "sku": "ING-001085",
+      "name": "PULSERA COVER (SUSPENDIDO",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001085"
+    },
+    {
+      "sku": "ING-002065",
+      "name": "TEQUILA HORNITOS",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "002065"
+    },
+    {
+      "sku": "ING-001019",
+      "name": "SKY",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001019"
+    },
+    {
+      "sku": "ING-001063",
+      "name": "SPRITE - (355 ML)",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001063"
+    },
+    {
+      "sku": "ING-003027",
+      "name": "SQUIRT - (355 ML)",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "003027"
+    },
+    {
+      "sku": "ING-002052",
+      "name": "TEQUILA 1800",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "002052"
+    },
+    {
+      "sku": "ING-002106",
+      "name": "VODKA TITOS - (750 ML)",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "002106"
+    },
+    {
+      "sku": "ING-002082",
+      "name": "LICOR CARIBU MENTA VERDE -",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "002082"
+    },
+    {
+      "sku": "ING-002072",
+      "name": "LICOR BRANDY TORRES 10 - (7",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "ml",
+      "active": false,
+      "source_code": "002072"
+    },
+    {
+      "sku": "ING-001086",
+      "name": "TWISTED TEA (SUSPENDIDO)",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001086"
+    },
+    {
+      "sku": "ING-001036",
+      "name": "VIP (SUSPENDIDO)",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001036"
+    },
+    {
+      "sku": "ING-001097",
+      "name": "YARDA (SUSPENDIDO)",
+      "category": "ingredient",
+      "price_mxn": 0,
+      "unit": "unit",
+      "active": false,
+      "source_code": "001097"
+    }
+  ],
+  "recipes": [
+    {
+      "product_sku": "SALE-30-30-ANEJO",
+      "ingredient_sku": "ING-002110",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-30-30-ANEJO",
+      "ingredient_sku": "ING-002109",
+      "quantity": 990,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-30-30-BLANCO",
+      "ingredient_sku": "ING-002109",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-30-30-CRISTALINO",
+      "ingredient_sku": "ING-002107",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-30-30-REPOSADO",
+      "ingredient_sku": "ING-002108",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-3X2-CUBETA-TECATE-1-4-BLANCA",
+      "ingredient_sku": "ING-001051",
+      "quantity": 30,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-3X2-CUBETA-TECATE-1-4-ROJA",
+      "ingredient_sku": "ING-001059",
+      "quantity": 30,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-911-DRINK",
+      "ingredient_sku": "ING-001026",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-911-DRINK",
+      "ingredient_sku": "ING-001027",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-911-DRINK",
+      "ingredient_sku": "ING-001002",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-911-DRINK",
+      "ingredient_sku": "ING-001004",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-911-DRINK",
+      "ingredient_sku": "ING-001024",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-ABSOLUT",
+      "ingredient_sku": "ING-002070",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-ABSOLUT-LIMON",
+      "ingredient_sku": "ING-001056",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-ABSOLUT-MANGO",
+      "ingredient_sku": "ING-004014",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-ABSOLUT-PERA",
+      "ingredient_sku": "ING-001057",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-ABSOLUT-RASPBERRY",
+      "ingredient_sku": "ING-001058",
+      "quantity": 750,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-ABSOLUT-SANDIA",
+      "ingredient_sku": "ING-002068",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-AGUA",
+      "ingredient_sku": "ING-001054",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-AGUA-MINERAL-CH",
+      "ingredient_sku": "ING-003024",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-AMARRAME",
+      "ingredient_sku": "ING-001030",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AMARRAME",
+      "ingredient_sku": "ING-002071",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AMARRAME",
+      "ingredient_sku": "ING-001004",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AMIGA-DATE-CUENTA",
+      "ingredient_sku": "ING-001032",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZUL-MANGO",
+      "ingredient_sku": "ING-001010",
+      "quantity": 690,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO",
+      "ingredient_sku": "ING-001008",
+      "quantity": 120,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO",
+      "ingredient_sku": "ING-001007",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO",
+      "ingredient_sku": "ING-001002",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO",
+      "ingredient_sku": "ING-001004",
+      "quantity": 360,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO",
+      "ingredient_sku": "ING-004007",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO-BARRA-LIBRE",
+      "ingredient_sku": "ING-001008",
+      "quantity": 120,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO-BARRA-LIBRE",
+      "ingredient_sku": "ING-001007",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO-BARRA-LIBRE",
+      "ingredient_sku": "ING-001002",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO-BARRA-LIBRE",
+      "ingredient_sku": "ING-001037",
+      "quantity": 180,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO-BARRA-LIBRE",
+      "ingredient_sku": "ING-001004",
+      "quantity": 240,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO-BARRA-LIBRE",
+      "ingredient_sku": "ING-004007",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO-3X2-SUSPENDIDO",
+      "ingredient_sku": "ING-001008",
+      "quantity": 360,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO-3X2-SUSPENDIDO",
+      "ingredient_sku": "ING-001007",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO-3X2-SUSPENDIDO",
+      "ingredient_sku": "ING-001002",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO-3X2-SUSPENDIDO",
+      "ingredient_sku": "ING-001037",
+      "quantity": 540,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO-3X2-SUSPENDIDO",
+      "ingredient_sku": "ING-001004",
+      "quantity": 720,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO-3X2-SUSPENDIDO",
+      "ingredient_sku": "ING-004007",
+      "quantity": 180,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO-S-A",
+      "ingredient_sku": "ING-001008",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO-S-A",
+      "ingredient_sku": "ING-001037",
+      "quantity": 180,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO-S-A",
+      "ingredient_sku": "ING-001004",
+      "quantity": 240,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO-S-A-V-CHICO",
+      "ingredient_sku": "ING-001008",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO-S-A-V-CHICO",
+      "ingredient_sku": "ING-001037",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO-S-A-V-CHICO",
+      "ingredient_sku": "ING-001004",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO-V-CHICO-GRATIS",
+      "ingredient_sku": "ING-001008",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO-V-CHICO-GRATIS",
+      "ingredient_sku": "ING-001007",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO-V-CHICO-GRATIS",
+      "ingredient_sku": "ING-001002",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO-V-CHICO-GRATIS",
+      "ingredient_sku": "ING-001037",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO-V-CHICO-GRATIS",
+      "ingredient_sku": "ING-001004",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO-V-CHICO-GRATIS",
+      "ingredient_sku": "ING-004007",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO-V-CHICO",
+      "ingredient_sku": "ING-001008",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO-V-CHICO",
+      "ingredient_sku": "ING-001007",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO-V-CHICO",
+      "ingredient_sku": "ING-001002",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO-V-CHICO",
+      "ingredient_sku": "ING-001037",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO-V-CHICO",
+      "ingredient_sku": "ING-001004",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-AZULITO-V-CHICO",
+      "ingredient_sku": "ING-004007",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BABY-MANGO",
+      "ingredient_sku": "ING-001011",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BABY-MANGO",
+      "ingredient_sku": "ING-001039",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BABY-MANGO",
+      "ingredient_sku": "ING-001010",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BACARDI",
+      "ingredient_sku": "ING-001052",
+      "quantity": 750,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BACARDI-COCA-COLA",
+      "ingredient_sku": "ING-006024",
+      "quantity": 210,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BACARDI-COCA-COLA",
+      "ingredient_sku": "ING-001052",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BACARDI-LIMON",
+      "ingredient_sku": "ING-001043",
+      "quantity": 750,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BACARDI-MANGO-CHILE",
+      "ingredient_sku": "ING-001012",
+      "quantity": 750,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BACARDI-RASPBERRY",
+      "ingredient_sku": "ING-001006",
+      "quantity": 750,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BANANA-COLADA",
+      "ingredient_sku": "ING-001008",
+      "quantity": 120,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BANANA-COLADA",
+      "ingredient_sku": "ING-001034",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BANANA-COLADA",
+      "ingredient_sku": "ING-001009",
+      "quantity": 300,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BANANA-COLADA",
+      "ingredient_sku": "ING-002071",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BANANA-COLADA",
+      "ingredient_sku": "ING-001023",
+      "quantity": 8,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-BANANA-COLADA",
+      "ingredient_sku": "ING-001042",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BANANA-COLADA",
+      "ingredient_sku": "ING-001013",
+      "quantity": 7.5,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BANANA-COLADA",
+      "ingredient_sku": "ING-001079",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BARULLO-SPICY-SANDIA",
+      "ingredient_sku": "ING-002113",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-BELLAKEO-TROPICAL",
+      "ingredient_sku": "ING-001009",
+      "quantity": 120,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BELLAKEO-TROPICAL",
+      "ingredient_sku": "ING-001013",
+      "quantity": 45,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BELLAKEO-TROPICAL",
+      "ingredient_sku": "ING-001017",
+      "quantity": 240,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BELLAKEO-TROPICAL",
+      "ingredient_sku": "ING-001052",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BELLAKEO-TROPICAL",
+      "ingredient_sku": "ING-001032",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BICHOTA",
+      "ingredient_sku": "ING-001008",
+      "quantity": 120,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BICHOTA",
+      "ingredient_sku": "ING-001002",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BICHOTA",
+      "ingredient_sku": "ING-001013",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BICHOTA",
+      "ingredient_sku": "ING-001012",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BICHOTA",
+      "ingredient_sku": "ING-001004",
+      "quantity": 360,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BICHOTA-BL",
+      "ingredient_sku": "ING-001008",
+      "quantity": 18.75,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BICHOTA-BL",
+      "ingredient_sku": "ING-001002",
+      "quantity": 9.375,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BICHOTA-BL",
+      "ingredient_sku": "ING-001013",
+      "quantity": 4.686,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BICHOTA-BL",
+      "ingredient_sku": "ING-001012",
+      "quantity": 18.75,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BICHOTA-BL",
+      "ingredient_sku": "ING-001004",
+      "quantity": 112.5,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BLACK-LABEL",
+      "ingredient_sku": "ING-001074",
+      "quantity": 750,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BLACK-LABEL-AGUA-MINERAL",
+      "ingredient_sku": "ING-001008",
+      "quantity": 210,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BLACK-LABEL-AGUA-MINERAL",
+      "ingredient_sku": "ING-001074",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BLACK-LABEL-MONSTER",
+      "ingredient_sku": "ING-001021",
+      "quantity": 210,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BLACK-LABEL-MONSTER",
+      "ingredient_sku": "ING-001074",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BLACK-LABEL-SPRITE",
+      "ingredient_sku": "ING-001004",
+      "quantity": 210,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BLACK-LABEL-SPRITE",
+      "ingredient_sku": "ING-001074",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BLUE-HAWAII",
+      "ingredient_sku": "ING-001034",
+      "quantity": 45,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BLUE-HAWAII",
+      "ingredient_sku": "ING-001040",
+      "quantity": 45,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BLUE-HAWAII",
+      "ingredient_sku": "ING-001009",
+      "quantity": 180,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BLUE-HAWAII",
+      "ingredient_sku": "ING-001007",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BLUE-HAWAII",
+      "ingredient_sku": "ING-001032",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BLUE-LABEL",
+      "ingredient_sku": "ING-001022",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-BOMBAY",
+      "ingredient_sku": "ING-002069",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-BOT-CHAMPAGNE-DE-LA-CASA-CUMPLEANERO",
+      "ingredient_sku": "ING-001001",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-BOT-DOUBLE-BLACK-LABEL-1LT-2025",
+      "ingredient_sku": "ING-001075",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-BOT-RED-LABEL-JW-1LITRO-2025",
+      "ingredient_sku": "ING-001018",
+      "quantity": 765,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BOT-TEQUILA-CLANDESTINOZ",
+      "ingredient_sku": "ING-001029",
+      "quantity": 5072.099999999999,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BOTE-DE-BASURA",
+      "ingredient_sku": "ING-002076",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BOTE-DE-BASURA",
+      "ingredient_sku": "ING-001007",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BOTE-DE-BASURA",
+      "ingredient_sku": "ING-001027",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BOTE-DE-BASURA",
+      "ingredient_sku": "ING-001021",
+      "quantity": 120,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BOTE-DE-BASURA",
+      "ingredient_sku": "ING-002071",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BOTE-DE-BASURA",
+      "ingredient_sku": "ING-001004",
+      "quantity": 360,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BOTE-DE-BASURA",
+      "ingredient_sku": "ING-001079",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BOTE-DE-BASURA",
+      "ingredient_sku": "ING-004007",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BOTE-TECATE-BLANCO",
+      "ingredient_sku": "ING-004020",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-BOTE-TECATE-ROJO",
+      "ingredient_sku": "ING-004019",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-BOTELLA",
+      "ingredient_sku": "ING-001070",
+      "quantity": 705,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BUCHANANS-12",
+      "ingredient_sku": "ING-001076",
+      "quantity": 750,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BUCHANANS-12",
+      "ingredient_sku": "ING-001008",
+      "quantity": 210,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BUCHANANS-12-AGUA-MINERAL",
+      "ingredient_sku": "ING-001008",
+      "quantity": 210,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BUCHANANS-12-AGUA-MINERAL",
+      "ingredient_sku": "ING-001076",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BUCHANANS-12-MONSTER",
+      "ingredient_sku": "ING-001021",
+      "quantity": 210,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BUCHANANS-12-MONSTER",
+      "ingredient_sku": "ING-001076",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BUCHANANS-12-SPRITE",
+      "ingredient_sku": "ING-001004",
+      "quantity": 210,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BUCHANANS-12-SPRITE",
+      "ingredient_sku": "ING-001076",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BUCHANANS-18",
+      "ingredient_sku": "ING-001077",
+      "quantity": 750,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BUCHANANS-18-AGUA-MINERAL",
+      "ingredient_sku": "ING-001008",
+      "quantity": 210,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BUCHANANS-18-AGUA-MINERAL",
+      "ingredient_sku": "ING-001077",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BUCHANANS-18-SPRITE",
+      "ingredient_sku": "ING-001004",
+      "quantity": 210,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BUCHANANS-18-SPRITE",
+      "ingredient_sku": "ING-001077",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-BUCHANANS-21",
+      "ingredient_sku": "ING-002111",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-BUCHANANS-MASTER",
+      "ingredient_sku": "ING-002061",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-BUCHANANS-PINA",
+      "ingredient_sku": "ING-002062",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-BUZZBALL",
+      "ingredient_sku": "ING-001087",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CAGUAMA-HIGH-MILLER",
+      "ingredient_sku": "ING-001089",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-CAGUAMA-TECATE-BLANCA",
+      "ingredient_sku": "ING-001090",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-CAGUAMA-TECATE-ROJA",
+      "ingredient_sku": "ING-001073",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-CAIPIRINA",
+      "ingredient_sku": "ING-001008",
+      "quantity": 120,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CAIPIRINA",
+      "ingredient_sku": "ING-001002",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CAIPIRINA",
+      "ingredient_sku": "ING-001005",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CAIPIRINA",
+      "ingredient_sku": "ING-003026",
+      "quantity": 270,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CAIPIRINA",
+      "ingredient_sku": "ING-004007",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CAIPIRINA-BARRA-LIBRE",
+      "ingredient_sku": "ING-001008",
+      "quantity": 120,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CAIPIRINA-BARRA-LIBRE",
+      "ingredient_sku": "ING-001002",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CAIPIRINA-BARRA-LIBRE",
+      "ingredient_sku": "ING-001005",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CAIPIRINA-BARRA-LIBRE",
+      "ingredient_sku": "ING-004007",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CAIPIRINA-V-CHICO",
+      "ingredient_sku": "ING-001008",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CAIPIRINA-V-CHICO",
+      "ingredient_sku": "ING-001002",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CAIPIRINA-V-CHICO",
+      "ingredient_sku": "ING-001005",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CAIPIRINA-V-CHICO",
+      "ingredient_sku": "ING-004007",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CAPITAN-MORGAN-COCA-COLA",
+      "ingredient_sku": "ING-006024",
+      "quantity": 210,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CAPITAN-MORGAN-COCA-COLA",
+      "ingredient_sku": "ING-001020",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CAPTAIN-MORGAN",
+      "ingredient_sku": "ING-001020",
+      "quantity": 750,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CAPTAIN-MORGAN",
+      "ingredient_sku": "ING-001094",
+      "quantity": 3,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-CHAMPAGNE-DE-LA-CASA",
+      "ingredient_sku": "ING-001001",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-CHUPACABRAS",
+      "ingredient_sku": "ING-001046",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CHUPACABRAS",
+      "ingredient_sku": "ING-001021",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CHUPACABRAS",
+      "ingredient_sku": "ING-001079",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CLAMATO-PREPARADO",
+      "ingredient_sku": "ING-001050",
+      "quantity": 540,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CLAMATO-PREPARADO",
+      "ingredient_sku": "ING-001030",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CLAMATO-PREPARADO",
+      "ingredient_sku": "ING-001007",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CLAMATO-PREPARADO",
+      "ingredient_sku": "ING-001005",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CLAMATO-PREPARADO",
+      "ingredient_sku": "ING-001004",
+      "quantity": 360,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CLAMATO-PREPARADO",
+      "ingredient_sku": "ING-001058",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CLANDEDRINK",
+      "ingredient_sku": "ING-001030",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CLANDEDRINK",
+      "ingredient_sku": "ING-001007",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CLANDEDRINK",
+      "ingredient_sku": "ING-001005",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CLANDEDRINK",
+      "ingredient_sku": "ING-001004",
+      "quantity": 360,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CLANDEDRINK",
+      "ingredient_sku": "ING-001058",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CLANDEWINDEX",
+      "ingredient_sku": "ING-001026",
+      "quantity": 3,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-CLANDEWINDEX",
+      "ingredient_sku": "ING-001007",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CLANDEWINDEX",
+      "ingredient_sku": "ING-001004",
+      "quantity": 300,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CLASE-AZUL-REPOSADO",
+      "ingredient_sku": "ING-001068",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-COCA-COLA",
+      "ingredient_sku": "ING-001062",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-COCA-COLA-LIHGT",
+      "ingredient_sku": "ING-001093",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-COCA-COLA-LIHGT",
+      "ingredient_sku": "ING-001062",
+      "quantity": 2,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-COCA-COLA-V-CHICO",
+      "ingredient_sku": "ING-006024",
+      "quantity": 210,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-COSMOPOLITAN",
+      "ingredient_sku": "ING-001008",
+      "quantity": 180,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-COSMOPOLITAN",
+      "ingredient_sku": "ING-001030",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-COSMOPOLITAN",
+      "ingredient_sku": "ING-001002",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-COSMOPOLITAN",
+      "ingredient_sku": "ING-001004",
+      "quantity": 120,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-COSMOPOLITAN",
+      "ingredient_sku": "ING-004007",
+      "quantity": 75,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-CUB-TECATE-LIGHT-1-4",
+      "ingredient_sku": "ING-001051",
+      "quantity": 10,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-CUB-TECATE-ROJA-1-4",
+      "ingredient_sku": "ING-001059",
+      "quantity": 10,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-CUBETA-BOTE-BLANCO",
+      "ingredient_sku": "ING-004020",
+      "quantity": 10,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-CUBETA-BOTE-ROJO",
+      "ingredient_sku": "ING-004019",
+      "quantity": 10,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-CUBETA-TECATE-1-4-MIXTA",
+      "ingredient_sku": "ING-001051",
+      "quantity": 5,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-CUBETA-TECATE-1-4-MIXTA",
+      "ingredient_sku": "ING-001059",
+      "quantity": 5,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-CUBETA-TECATE-BOTE",
+      "ingredient_sku": "ING-001051",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-DADDY-MANGO",
+      "ingredient_sku": "ING-001011",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-DADDY-MANGO",
+      "ingredient_sku": "ING-001039",
+      "quantity": 180,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-DADDY-MANGO",
+      "ingredient_sku": "ING-001010",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-DOM-PERIGNON",
+      "ingredient_sku": "ING-001082",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-DON-JULIO-1-500",
+      "ingredient_sku": "ING-001067",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-DON-JULIO-1942",
+      "ingredient_sku": "ING-001067",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-DON-JULIO-70",
+      "ingredient_sku": "ING-001033",
+      "quantity": 690,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-DON-JULIO-BLANCO",
+      "ingredient_sku": "ING-001065",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-DON-JULIO-REPOSADO",
+      "ingredient_sku": "ING-001066",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-DOUBLE-BLACK-LABEL",
+      "ingredient_sku": "ING-001075",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-EFECTO-ELEVADO-2025",
+      "ingredient_sku": "ING-001094",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-EFECTO-ELEVADO-2025",
+      "ingredient_sku": "ING-001007",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-EFECTO-ELEVADO-2025",
+      "ingredient_sku": "ING-001052",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-EFECTO-ELEVADO-2025",
+      "ingredient_sku": "ING-001004",
+      "quantity": 180,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-EL-PADRINO-FREE-DRINK",
+      "ingredient_sku": "ING-001002",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-EL-PADRINO-FREE-DRINK",
+      "ingredient_sku": "ING-003026",
+      "quantity": 120,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-EL-PADRINO-FREE-DRINK",
+      "ingredient_sku": "ING-001010",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-EN-LAS-ROCAS-BLACK-LABEL",
+      "ingredient_sku": "ING-001074",
+      "quantity": 45,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-EN-LAS-ROCAS-BUCHANANS-12",
+      "ingredient_sku": "ING-001076",
+      "quantity": 45,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-EN-LAS-ROCAS-RED-LABEL",
+      "ingredient_sku": "ING-001018",
+      "quantity": 45,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-FABULOSO",
+      "ingredient_sku": "ING-001008",
+      "quantity": 120,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-FABULOSO",
+      "ingredient_sku": "ING-001007",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-FABULOSO",
+      "ingredient_sku": "ING-001002",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-FABULOSO",
+      "ingredient_sku": "ING-001013",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-FABULOSO",
+      "ingredient_sku": "ING-001021",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-FABULOSO",
+      "ingredient_sku": "ING-003026",
+      "quantity": 300,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-FABULOSO",
+      "ingredient_sku": "ING-001084",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-FABULOSO",
+      "ingredient_sku": "ING-001023",
+      "quantity": 4,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-FABULOSO",
+      "ingredient_sku": "ING-001016",
+      "quantity": 2.5,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-FABULOSO",
+      "ingredient_sku": "ING-001028",
+      "quantity": 3,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-FRESA-TENTADORA",
+      "ingredient_sku": "ING-001034",
+      "quantity": 45,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-FRESA-TENTADORA",
+      "ingredient_sku": "ING-001040",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-FRESA-TENTADORA",
+      "ingredient_sku": "ING-001035",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-FRESA-TENTADORA",
+      "ingredient_sku": "ING-001045",
+      "quantity": 75,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-FRESA-TENTADORA",
+      "ingredient_sku": "ING-001044",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-FRESA-TENTADORA",
+      "ingredient_sku": "ING-001052",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-FRESCA-2025",
+      "ingredient_sku": "ING-001064",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-GOOD-BYE-MADAFAKERS",
+      "ingredient_sku": "ING-002076",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-GOOD-BYE-MADAFAKERS",
+      "ingredient_sku": "ING-001007",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-GOOD-BYE-MADAFAKERS",
+      "ingredient_sku": "ING-001027",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-GOOD-BYE-MADAFAKERS",
+      "ingredient_sku": "ING-001052",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-GOOD-BYE-MADAFAKERS",
+      "ingredient_sku": "ING-001004",
+      "quantity": 210,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-GOOD-BYE-MADAFAKERS",
+      "ingredient_sku": "ING-001079",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-GOOD-BYE-MADAFAKERS",
+      "ingredient_sku": "ING-001024",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-GRAN-MALO",
+      "ingredient_sku": "ING-001069",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-GREY-GOOSE",
+      "ingredient_sku": "ING-001083",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-HERRADURA-ULTRA",
+      "ingredient_sku": "ING-001071",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-HPNOTIQ",
+      "ingredient_sku": "ING-001080",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-HPNOTIQ",
+      "ingredient_sku": "ING-001078",
+      "quantity": 690,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-JACK-DANIELS-COCA-COLA",
+      "ingredient_sku": "ING-006024",
+      "quantity": 210,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-JACK-DANIELS-COCA-COLA",
+      "ingredient_sku": "ING-001078",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-JACK-DANIELS",
+      "ingredient_sku": "ING-001078",
+      "quantity": 690,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-JAGERMEISTER",
+      "ingredient_sku": "ING-001046",
+      "quantity": 690,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-JBALVIN-COLORES",
+      "ingredient_sku": "ING-001041",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-JBALVIN-COLORES",
+      "ingredient_sku": "ING-001007",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-JBALVIN-COLORES",
+      "ingredient_sku": "ING-001027",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-JBALVIN-COLORES",
+      "ingredient_sku": "ING-001053",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-JBALVIN-COLORES",
+      "ingredient_sku": "ING-001013",
+      "quantity": 22.5,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-JBALVIN-COLORES",
+      "ingredient_sku": "ING-001024",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-JUDAS",
+      "ingredient_sku": "ING-001005",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-JUDAS",
+      "ingredient_sku": "ING-002080",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-JUDAS",
+      "ingredient_sku": "ING-004007",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-JUDAS",
+      "ingredient_sku": "ING-001018",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-JUGO-ARANDANO",
+      "ingredient_sku": "ING-001030",
+      "quantity": 990,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-JUGO-MANGO",
+      "ingredient_sku": "ING-001039",
+      "quantity": 990,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-JUGO-NARANJA",
+      "ingredient_sku": "ING-001041",
+      "quantity": 990,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-JUGO-PINA",
+      "ingredient_sku": "ING-001009",
+      "quantity": 990,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-JUGO-TORONJA",
+      "ingredient_sku": "ING-004021",
+      "quantity": 990,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-KRIPTONITA",
+      "ingredient_sku": "ING-001053",
+      "quantity": 45,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-KRIPTONITA",
+      "ingredient_sku": "ING-002071",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-KRIPTONITA",
+      "ingredient_sku": "ING-001004",
+      "quantity": 480,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-KRIPTONITA",
+      "ingredient_sku": "ING-004007",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-LIGHT",
+      "ingredient_sku": "ING-001090",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-LUCES-DE-HABANA",
+      "ingredient_sku": "ING-001008",
+      "quantity": 150,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-LUCES-DE-HABANA",
+      "ingredient_sku": "ING-001041",
+      "quantity": 330,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-LUCES-DE-HABANA",
+      "ingredient_sku": "ING-001053",
+      "quantity": 45,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-LUCES-DE-HABANA",
+      "ingredient_sku": "ING-001032",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-LYSOL",
+      "ingredient_sku": "ING-001008",
+      "quantity": 210,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-LYSOL",
+      "ingredient_sku": "ING-001007",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-LYSOL",
+      "ingredient_sku": "ING-001021",
+      "quantity": 120,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-LYSOL",
+      "ingredient_sku": "ING-003026",
+      "quantity": 210,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-LYSOL",
+      "ingredient_sku": "ING-004007",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MAESTRO-DOBEL-TEQUILERO",
+      "ingredient_sku": "ING-002096",
+      "quantity": 23.5,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-MAESTRO-TEQUILERO",
+      "ingredient_sku": "ING-001070",
+      "quantity": 690,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MALIBU-PINA",
+      "ingredient_sku": "ING-001009",
+      "quantity": 480,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MALIBU-PINA",
+      "ingredient_sku": "ING-001032",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MAMADAS",
+      "ingredient_sku": "ING-001035",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-MAMADAS",
+      "ingredient_sku": "ING-001044",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MAMADAS",
+      "ingredient_sku": "ING-001048",
+      "quantity": 45,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MAMADAS",
+      "ingredient_sku": "ING-001032",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MANGO-CUSH",
+      "ingredient_sku": "ING-001070",
+      "quantity": 705,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MANGO-KUSH",
+      "ingredient_sku": "ING-001011",
+      "quantity": 45,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MANGO-KUSH",
+      "ingredient_sku": "ING-001039",
+      "quantity": 300,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MANGO-KUSH",
+      "ingredient_sku": "ING-001010",
+      "quantity": 45,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA",
+      "ingredient_sku": "ING-001002",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA",
+      "ingredient_sku": "ING-001005",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA",
+      "ingredient_sku": "ING-003026",
+      "quantity": 450,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA",
+      "ingredient_sku": "ING-001079",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA-CHERRY",
+      "ingredient_sku": "ING-001002",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA-CHERRY",
+      "ingredient_sku": "ING-001013",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA-CHERRY",
+      "ingredient_sku": "ING-003026",
+      "quantity": 450,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA-CHERRY",
+      "ingredient_sku": "ING-001079",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA-CHERRY-S-A",
+      "ingredient_sku": "ING-001013",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA-CHERRY-S-A",
+      "ingredient_sku": "ING-003026",
+      "quantity": 450,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA-CHERRY-S-A-V-CHICO",
+      "ingredient_sku": "ING-001013",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA-CHERRY-S-A-V-CHICO",
+      "ingredient_sku": "ING-003026",
+      "quantity": 180,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA-DE-LIMON-S-A",
+      "ingredient_sku": "ING-001005",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA-DE-LIMON-S-A",
+      "ingredient_sku": "ING-001004",
+      "quantity": 180,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA-DE-LIMON-S-A-2025",
+      "ingredient_sku": "ING-001002",
+      "quantity": 7.5,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA-DE-LIMON-S-A-2025",
+      "ingredient_sku": "ING-001005",
+      "quantity": 7.5,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA-DE-LIMON-S-A-2025",
+      "ingredient_sku": "ING-001004",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA-DE-LIMON-S-A-2025",
+      "ingredient_sku": "ING-001029",
+      "quantity": 45,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA-LIMON-2025",
+      "ingredient_sku": "ING-001002",
+      "quantity": 7.5,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA-LIMON-2025",
+      "ingredient_sku": "ING-001005",
+      "quantity": 7.5,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA-LIMON-2025",
+      "ingredient_sku": "ING-001004",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA-LIMON-2025",
+      "ingredient_sku": "ING-001029",
+      "quantity": 45,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA-MANGO",
+      "ingredient_sku": "ING-001011",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA-MANGO",
+      "ingredient_sku": "ING-001039",
+      "quantity": 450,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA-MANGO",
+      "ingredient_sku": "ING-001010",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA-MANGO-S-A",
+      "ingredient_sku": "ING-001011",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA-MANGO-S-A",
+      "ingredient_sku": "ING-001039",
+      "quantity": 450,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA-MANGO-S-A",
+      "ingredient_sku": "ING-001005",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA-MANGO-S-A-V-CHICO",
+      "ingredient_sku": "ING-001011",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA-MANGO-S-A-V-CHICO",
+      "ingredient_sku": "ING-001039",
+      "quantity": 180,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA-S-A",
+      "ingredient_sku": "ING-001005",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA-S-A",
+      "ingredient_sku": "ING-003026",
+      "quantity": 450,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA-S-A-V-CHICO",
+      "ingredient_sku": "ING-001005",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MARGARITA-S-A-V-CHICO",
+      "ingredient_sku": "ING-003026",
+      "quantity": 180,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MEZCAL-400-CONEJOS-JOVEN",
+      "ingredient_sku": "ING-002112",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-MICHELADA-CLANDESTINA-2025",
+      "ingredient_sku": "ING-001050",
+      "quantity": 180,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MICHELADA-CLANDESTINA-2025",
+      "ingredient_sku": "ING-001049",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MICHELADA-CLANDESTINA-2025",
+      "ingredient_sku": "ING-001051",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-MICHELADA-CLANDESTINA-2025",
+      "ingredient_sku": "ING-001016",
+      "quantity": 1.5,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-MICHELADA-CLASICA",
+      "ingredient_sku": "ING-001050",
+      "quantity": 210,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MICHELADA-MANGO",
+      "ingredient_sku": "ING-001050",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MICHELADA-MANGO",
+      "ingredient_sku": "ING-001011",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MICHELADA-MANGO",
+      "ingredient_sku": "ING-001039",
+      "quantity": 210,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MICHELADA-TAMARINDO",
+      "ingredient_sku": "ING-001050",
+      "quantity": 210,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MICHELADA-TAMARINDO",
+      "ingredient_sku": "ING-001061",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MOET",
+      "ingredient_sku": "ING-001081",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-MONSTER",
+      "ingredient_sku": "ING-001021",
+      "quantity": 480,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MUNECA-2025",
+      "ingredient_sku": "ING-001041",
+      "quantity": 180,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-MUNECA-2025",
+      "ingredient_sku": "ING-001095",
+      "quantity": 2,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-MUNECA-2025",
+      "ingredient_sku": "ING-001024",
+      "quantity": 45,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-NUVO",
+      "ingredient_sku": "ING-001025",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-PALOMA-BARRA-LIBRE",
+      "ingredient_sku": "ING-001002",
+      "quantity": 9.375,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PALOMA-BARRA-LIBRE",
+      "ingredient_sku": "ING-003026",
+      "quantity": 93.75,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PALOMA-BARRA-LIBRE",
+      "ingredient_sku": "ING-001010",
+      "quantity": 28.125,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PALOMA-CLANDESTINA",
+      "ingredient_sku": "ING-001008",
+      "quantity": 120,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PALOMA-CLANDESTINA",
+      "ingredient_sku": "ING-001002",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PALOMA-CLANDESTINA",
+      "ingredient_sku": "ING-003026",
+      "quantity": 300,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PALOMA-CLANDESTINA",
+      "ingredient_sku": "ING-001010",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PALOMA-JARRITO",
+      "ingredient_sku": "ING-001041",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PALOMA-JARRITO",
+      "ingredient_sku": "ING-004021",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PALOMA-JARRITO",
+      "ingredient_sku": "ING-003026",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PALOMA-JARRITO",
+      "ingredient_sku": "ING-001079",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PALOMA-OAXAQUENA",
+      "ingredient_sku": "ING-001041",
+      "quantity": 45,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PALOMA-OAXAQUENA",
+      "ingredient_sku": "ING-004021",
+      "quantity": 45,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PALOMA-OAXAQUENA",
+      "ingredient_sku": "ING-001005",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PALOMA-OAXAQUENA",
+      "ingredient_sku": "ING-002086",
+      "quantity": 45,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PALOMA-OAXAQUENA",
+      "ingredient_sku": "ING-003026",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PALOMA-V-CHICO",
+      "ingredient_sku": "ING-001002",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PALOMA-V-CHICO",
+      "ingredient_sku": "ING-003026",
+      "quantity": 120,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PALOMA-V-CHICO",
+      "ingredient_sku": "ING-001010",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PERLA-NEGRA-2X1",
+      "ingredient_sku": "ING-001007",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PERLA-NEGRA-2X1",
+      "ingredient_sku": "ING-001046",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PERLA-NEGRA-2X1",
+      "ingredient_sku": "ING-001021",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PINA",
+      "ingredient_sku": "ING-004015",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-PINA-COLADA",
+      "ingredient_sku": "ING-001034",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PINA-COLADA",
+      "ingredient_sku": "ING-001040",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PINA-COLADA",
+      "ingredient_sku": "ING-001035",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-PINA-COLADA",
+      "ingredient_sku": "ING-001009",
+      "quantity": 300,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PINA-COLADA",
+      "ingredient_sku": "ING-002071",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PINA-COLADA-S-A",
+      "ingredient_sku": "ING-001034",
+      "quantity": 45,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PINA-COLADA-S-A",
+      "ingredient_sku": "ING-001040",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PINA-COLADA-S-A",
+      "ingredient_sku": "ING-001035",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-PINA-COLADA-S-A",
+      "ingredient_sku": "ING-001009",
+      "quantity": 300,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PINA-COLADA-S-A-V-CHICO",
+      "ingredient_sku": "ING-001034",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PINA-COLADA-S-A-V-CHICO",
+      "ingredient_sku": "ING-001040",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PINA-COLADA-S-A-V-CHICO",
+      "ingredient_sku": "ING-001035",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-PINA-COLADA-S-A-V-CHICO",
+      "ingredient_sku": "ING-001009",
+      "quantity": 180,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PINA-TROPICAL",
+      "ingredient_sku": "ING-001015",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PINA-TROPICAL",
+      "ingredient_sku": "ING-001034",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PINA-TROPICAL",
+      "ingredient_sku": "ING-001040",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PINA-TROPICAL",
+      "ingredient_sku": "ING-001009",
+      "quantity": 120,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PINA-TROPICAL",
+      "ingredient_sku": "ING-001013",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PINA-TROPICAL",
+      "ingredient_sku": "ING-001052",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PINA-TROPICAL",
+      "ingredient_sku": "ING-001032",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-POWERADE-V-CHICO",
+      "ingredient_sku": "ING-001037",
+      "quantity": 210,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PROM-BICHOTA",
+      "ingredient_sku": "ING-001007",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PROM-BICHOTA",
+      "ingredient_sku": "ING-001046",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PROM-BICHOTA",
+      "ingredient_sku": "ING-001021",
+      "quantity": 180,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PROMO-AZULITO",
+      "ingredient_sku": "ING-001080",
+      "quantity": 25.5,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-PROMO-CAIPIRINA",
+      "ingredient_sku": "ING-001074",
+      "quantity": 765,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PROMO-PALOMA-CLANDESITINA",
+      "ingredient_sku": "ING-002099",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-PROMO-RED-LABEL",
+      "ingredient_sku": "ING-001018",
+      "quantity": 1380,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-PULSERA-COVER",
+      "ingredient_sku": "ING-001085",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-RAINBOW-CHICO-2025",
+      "ingredient_sku": "ING-001007",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RAINBOW-CHICO-2025",
+      "ingredient_sku": "ING-001013",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RAINBOW-CHICO-2025",
+      "ingredient_sku": "ING-001017",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RAINBOW-CHICO-2025",
+      "ingredient_sku": "ING-004007",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RAINBOW-S-A-2025",
+      "ingredient_sku": "ING-001041",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RAINBOW-S-A-2025",
+      "ingredient_sku": "ING-001009",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RAINBOW-S-A-2025",
+      "ingredient_sku": "ING-001013",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RAINBOW-S-A-2025",
+      "ingredient_sku": "ING-001017",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RAINBOW-S-A-2025",
+      "ingredient_sku": "ING-001037",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RAINBOW-S-A-2025",
+      "ingredient_sku": "ING-001004",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RASBERRY-SPLASH",
+      "ingredient_sku": "ING-001023",
+      "quantity": 8,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-RASBERRY-SPLASH",
+      "ingredient_sku": "ING-001042",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RASBERRY-SPLASH",
+      "ingredient_sku": "ING-001006",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RED-LABEL",
+      "ingredient_sku": "ING-001018",
+      "quantity": 690,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RED-LABEL-AGUA-MINERAL",
+      "ingredient_sku": "ING-001008",
+      "quantity": 210,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RED-LABEL-AGUA-MINERAL",
+      "ingredient_sku": "ING-001018",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RED-LABEL-SPRITE",
+      "ingredient_sku": "ING-001004",
+      "quantity": 210,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RED-LABEL-SPRITE",
+      "ingredient_sku": "ING-001018",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-REFIL-PALOMA-JARRITO",
+      "ingredient_sku": "ING-001041",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-REFIL-PALOMA-JARRITO",
+      "ingredient_sku": "ING-004021",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-REFIL-PALOMA-JARRITO",
+      "ingredient_sku": "ING-003026",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-REFIL-PALOMA-JARRITO",
+      "ingredient_sku": "ING-001079",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-REY-MAMABICHO",
+      "ingredient_sku": "ING-001008",
+      "quantity": 120,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-REY-MAMABICHO",
+      "ingredient_sku": "ING-001009",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-REY-MAMABICHO",
+      "ingredient_sku": "ING-001007",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-REY-MAMABICHO",
+      "ingredient_sku": "ING-001002",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-REY-MAMABICHO",
+      "ingredient_sku": "ING-001006",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-REY-MAMABICHO",
+      "ingredient_sku": "ING-001004",
+      "quantity": 240,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-REY-MAMABICHO-BL",
+      "ingredient_sku": "ING-001008",
+      "quantity": 37.5,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-REY-MAMABICHO-BL",
+      "ingredient_sku": "ING-001009",
+      "quantity": 28.125,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-REY-MAMABICHO-BL",
+      "ingredient_sku": "ING-001007",
+      "quantity": 9.375,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-REY-MAMABICHO-BL",
+      "ingredient_sku": "ING-001002",
+      "quantity": 9.375,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-REY-MAMABICHO-BL",
+      "ingredient_sku": "ING-001006",
+      "quantity": 18.75,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-REY-MAMABICHO-BL",
+      "ingredient_sku": "ING-001004",
+      "quantity": 75,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-ROJA",
+      "ingredient_sku": "ING-001073",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-RONDA-BABY-MANGO",
+      "ingredient_sku": "ING-001011",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RONDA-BABY-MANGO",
+      "ingredient_sku": "ING-001039",
+      "quantity": 240,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RONDA-BABY-MANGO",
+      "ingredient_sku": "ING-001002",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RONDA-BABY-MANGO",
+      "ingredient_sku": "ING-001005",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RONDA-BABY-MANGO",
+      "ingredient_sku": "ING-001010",
+      "quantity": 120,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RONDA-MAMADAS",
+      "ingredient_sku": "ING-001035",
+      "quantity": 8,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-RONDA-MAMADAS",
+      "ingredient_sku": "ING-001044",
+      "quantity": 120,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RONDA-MAMADAS",
+      "ingredient_sku": "ING-001048",
+      "quantity": 120,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RONDA-PERLAS-NEGRAS",
+      "ingredient_sku": "ING-001007",
+      "quantity": 120,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RONDA-PERLAS-NEGRAS",
+      "ingredient_sku": "ING-001046",
+      "quantity": 240,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RONDA-PERLAS-NEGRAS",
+      "ingredient_sku": "ING-001021",
+      "quantity": 120,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RONDA-RAINBOW",
+      "ingredient_sku": "ING-001009",
+      "quantity": 210,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RONDA-RAINBOW",
+      "ingredient_sku": "ING-001007",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RONDA-RAINBOW",
+      "ingredient_sku": "ING-001027",
+      "quantity": 45,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RONDA-RAINBOW",
+      "ingredient_sku": "ING-001013",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RONDA-RAINBOW",
+      "ingredient_sku": "ING-001032",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RONDA-RAINBOW",
+      "ingredient_sku": "ING-004007",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RONDA-TAMARINDAZO",
+      "ingredient_sku": "ING-001061",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RONDA-TAMARINDAZO",
+      "ingredient_sku": "ING-001005",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RONDA-TAMARINDAZO",
+      "ingredient_sku": "ING-003026",
+      "quantity": 120,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RONDA-TAMARINDAZO",
+      "ingredient_sku": "ING-001079",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-RONDA-TEQUILA-CLANDESTINOZ",
+      "ingredient_sku": "ING-001079",
+      "quantity": 240,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SEX-ON-THE-BEACH",
+      "ingredient_sku": "ING-001030",
+      "quantity": 120,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SEX-ON-THE-BEACH",
+      "ingredient_sku": "ING-001027",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SEX-ON-THE-BEACH",
+      "ingredient_sku": "ING-001017",
+      "quantity": 300,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SEX-ON-THE-BEACH",
+      "ingredient_sku": "ING-004007",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SEX-ON-THE-BEACH-BARRA-LIBRE",
+      "ingredient_sku": "ING-001030",
+      "quantity": 37.5,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SEX-ON-THE-BEACH-BARRA-LIBRE",
+      "ingredient_sku": "ING-001027",
+      "quantity": 9.375,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SEX-ON-THE-BEACH-BARRA-LIBRE",
+      "ingredient_sku": "ING-001017",
+      "quantity": 93.75,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SEX-ON-THE-BEACH-BARRA-LIBRE",
+      "ingredient_sku": "ING-004007",
+      "quantity": 28.125,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SEX-ON-THE-BEACH-V-CHICO",
+      "ingredient_sku": "ING-001030",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SEX-ON-THE-BEACH-V-CHICO",
+      "ingredient_sku": "ING-001027",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SEX-ON-THE-BEACH-V-CHICO",
+      "ingredient_sku": "ING-001017",
+      "quantity": 120,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SEX-ON-THE-BEACH-V-CHICO",
+      "ingredient_sku": "ING-004007",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SEX-ON-THE-BICH",
+      "ingredient_sku": "ING-001008",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SEX-ON-THE-BICH",
+      "ingredient_sku": "ING-001009",
+      "quantity": 240,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SEX-ON-THE-BICH",
+      "ingredient_sku": "ING-001007",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SEX-ON-THE-BICH",
+      "ingredient_sku": "ING-001002",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SEX-ON-THE-BICH",
+      "ingredient_sku": "ING-001006",
+      "quantity": 150,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SEX-ON-THE-BICH",
+      "ingredient_sku": "ING-001004",
+      "quantity": 240,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SHOT-BACANORA",
+      "ingredient_sku": "ING-002086",
+      "quantity": 45,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SHOT-BARULLO",
+      "ingredient_sku": "ING-002113",
+      "quantity": 0.1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-SHOT-CAPITAN-MORGAN",
+      "ingredient_sku": "ING-001020",
+      "quantity": 45,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SHOT-CORTESIA",
+      "ingredient_sku": "ING-001010",
+      "quantity": 45,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SHOT-DON-JULIO-2X150",
+      "ingredient_sku": "ING-001033",
+      "quantity": 3,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SHOT-DON-JULIO-70",
+      "ingredient_sku": "ING-001033",
+      "quantity": 45,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SHOT-HORNITOS-REPOSADO",
+      "ingredient_sku": "ING-002065",
+      "quantity": 0.08,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-SHOT-MAESTRO-TEQUILERO",
+      "ingredient_sku": "ING-001070",
+      "quantity": 45,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SHOT-PERLA-NEGRA",
+      "ingredient_sku": "ING-001007",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SHOT-PERLA-NEGRA",
+      "ingredient_sku": "ING-001046",
+      "quantity": 45,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SHOT-PERLA-NEGRA",
+      "ingredient_sku": "ING-001021",
+      "quantity": 105,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SHOT-TEQUILA-CLANDESTINOZ",
+      "ingredient_sku": "ING-001079",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SHOT-TEQUILA-MANGO",
+      "ingredient_sku": "ING-001010",
+      "quantity": 45,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SHOT-VODKA-TAMARINDO",
+      "ingredient_sku": "ING-001084",
+      "quantity": 45,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SKY",
+      "ingredient_sku": "ING-001019",
+      "quantity": 3,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-SKY-ROCKET",
+      "ingredient_sku": "ING-001002",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SKY-ROCKET",
+      "ingredient_sku": "ING-001013",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SKY-ROCKET",
+      "ingredient_sku": "ING-001019",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-SKY-ROCKET",
+      "ingredient_sku": "ING-001004",
+      "quantity": 120,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SKY-ROCKET",
+      "ingredient_sku": "ING-001016",
+      "quantity": 2.5,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-SMIRNOFF-TAMARINDO",
+      "ingredient_sku": "ING-001084",
+      "quantity": 750,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SNOOP-SANCK-2025",
+      "ingredient_sku": "ING-001041",
+      "quantity": 120,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SNOOP-SANCK-2025",
+      "ingredient_sku": "ING-001009",
+      "quantity": 120,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SNOOP-SANCK-2025",
+      "ingredient_sku": "ING-001053",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SNOOP-SANCK-2025",
+      "ingredient_sku": "ING-001032",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SPRITE",
+      "ingredient_sku": "ING-001063",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-SPRITE-V-CHICO",
+      "ingredient_sku": "ING-001004",
+      "quantity": 210,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SQUIRT",
+      "ingredient_sku": "ING-003027",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-SQUIRT-V-CHICO",
+      "ingredient_sku": "ING-003026",
+      "quantity": 210,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SUAVITEL",
+      "ingredient_sku": "ING-001008",
+      "quantity": 210,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SUAVITEL",
+      "ingredient_sku": "ING-001007",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SUAVITEL",
+      "ingredient_sku": "ING-001021",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SUAVITEL",
+      "ingredient_sku": "ING-003026",
+      "quantity": 210,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SUAVITEL",
+      "ingredient_sku": "ING-001018",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SUAVITEL",
+      "ingredient_sku": "ING-001061",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SUAVITEL",
+      "ingredient_sku": "ING-001005",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-SUAVITEL",
+      "ingredient_sku": "ING-001079",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-TAMARINDAZO",
+      "ingredient_sku": "ING-001061",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-TAMARINDAZO",
+      "ingredient_sku": "ING-001005",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-TAMARINDAZO",
+      "ingredient_sku": "ING-003026",
+      "quantity": 330,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-TAMARINDAZO",
+      "ingredient_sku": "ING-001079",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-TECATE-BOTE",
+      "ingredient_sku": "ING-001059",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-TECATE-LIGHT-1-4",
+      "ingredient_sku": "ING-001051",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-TECATE-ROJA-1-4",
+      "ingredient_sku": "ING-001059",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-TEQUILA-1800",
+      "ingredient_sku": "ING-002052",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-TEQUILA-MINERAL",
+      "ingredient_sku": "ING-001008",
+      "quantity": 240,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-TEQUILA-MINERAL",
+      "ingredient_sku": "ING-001079",
+      "quantity": 240,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-TEQUILA-SUNRISE",
+      "ingredient_sku": "ING-001002",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-TEQUILA-SUNRISE",
+      "ingredient_sku": "ING-001013",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-TEQUILA-SUNRISE",
+      "ingredient_sku": "ING-001017",
+      "quantity": 450,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-TEQUILA-SUNRISE",
+      "ingredient_sku": "ING-001079",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-TITOS",
+      "ingredient_sku": "ING-002106",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-TORNADO",
+      "ingredient_sku": "ING-002082",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-TORNADO",
+      "ingredient_sku": "ING-001004",
+      "quantity": 450,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-TORNADO",
+      "ingredient_sku": "ING-001018",
+      "quantity": 90,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-TORRES-10",
+      "ingredient_sku": "ING-002072",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-TRAGO-WHISKY",
+      "ingredient_sku": "ING-001018",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-TUSSA",
+      "ingredient_sku": "ING-001008",
+      "quantity": 300,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-TUSSA",
+      "ingredient_sku": "ING-001002",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-TUSSA",
+      "ingredient_sku": "ING-001013",
+      "quantity": 30,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-TUSSA",
+      "ingredient_sku": "ING-001017",
+      "quantity": 240,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-TUSSA",
+      "ingredient_sku": "ING-001084",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-TWISTED-TEA",
+      "ingredient_sku": "ING-001086",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-VIP",
+      "ingredient_sku": "ING-001036",
+      "quantity": 1,
+      "unit": "unit"
+    },
+    {
+      "product_sku": "SALE-VIRGIN-SUNRISE",
+      "ingredient_sku": "ING-001041",
+      "quantity": 150,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-VIRGIN-SUNRISE",
+      "ingredient_sku": "ING-001009",
+      "quantity": 150,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-VIRGIN-SUNRISE",
+      "ingredient_sku": "ING-001013",
+      "quantity": 15,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-VODKA-CON-AGUA-MINERAL-1L",
+      "ingredient_sku": "ING-001008",
+      "quantity": 600,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-VODKA-CON-AGUA-MINERAL-1L",
+      "ingredient_sku": "ING-004007",
+      "quantity": 60,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-WHISKY-EN-LAS-ROCAS",
+      "ingredient_sku": "ING-001018",
+      "quantity": 45,
+      "unit": "ml"
+    },
+    {
+      "product_sku": "SALE-YARDA",
+      "ingredient_sku": "ING-001097",
+      "quantity": 1,
+      "unit": "unit"
+    }
+  ],
+  "unmatched_recipe_products": [
+    {
+      "source_code": "06009",
+      "name": "."
+    },
+    {
+      "source_code": "04016",
+      "name": "SHOT TEQUILA 30-30"
+    }
+  ]
+}

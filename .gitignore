@@ -1,0 +1,16 @@
+# Secrets and environment-specific configuration
+.env
+.env.*
+!.env.example
+
+# Dependencies and logs
+node_modules/
+npm-debug.log*
+*.log
+
+# Local database and operating-system files
+postgres-data/
+.DS_Store
+
+# Generated handoff archives
+*.zip

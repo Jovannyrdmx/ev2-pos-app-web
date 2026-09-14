@@ -1,0 +1,38 @@
+{
+  "version": 2,
+  "venue": "EV2 Clandestino",
+  "source": "Plano entregado por EV2 · septiembre de 2026",
+  "floors": [
+    {"key":"planta_baja","label":"Planta baja","bar":"Bar Planta Baja","planImage":"/assets/plano-planta-baja.jpg","deliveryPoints":["PB-Pista","PB-Entrada"]},
+    {"key":"planta_alta","label":"Planta alta","bar":"Bar Planta Alta","planImage":"/assets/plano-planta-baja.jpg","deliveryPoints":["PA-Pista","PA-Entrada"]}
+  ],
+  "zones": [
+    {"map_key":"pb-roja-39","name":"Zona Roja · 39","floor":"planta_baja","bar_key":"Bar Planta Baja","capacity":8,"extra_capacity":0,"base_price_mxn":5000,"map_config":{"x":30,"y":18,"w":8,"h":12,"type":"roja","label":"39"}},
+    {"map_key":"pb-roja-40","name":"Zona Roja · 40","floor":"planta_baja","bar_key":"Bar Planta Baja","capacity":8,"extra_capacity":0,"base_price_mxn":5000,"map_config":{"x":40,"y":15,"w":10,"h":10,"type":"roja","label":"40"}},
+    {"map_key":"pb-roja-41","name":"Zona Roja · 41","floor":"planta_baja","bar_key":"Bar Planta Baja","capacity":8,"extra_capacity":0,"base_price_mxn":5000,"map_config":{"x":52,"y":18,"w":8,"h":12,"type":"roja","label":"41"}},
+    {"map_key":"pb-azul-13","name":"Zona Azul · 13","floor":"planta_baja","bar_key":"Bar Planta Baja","capacity":10,"extra_capacity":2,"base_price_mxn":4500,"map_config":{"x":26,"y":54,"w":6,"h":14,"type":"azul","label":"13"}},
+    {"map_key":"pb-azul-14","name":"Zona Azul · 14","floor":"planta_baja","bar_key":"Bar Planta Baja","capacity":10,"extra_capacity":2,"base_price_mxn":4500,"map_config":{"x":26,"y":69,"w":6,"h":14,"type":"azul","label":"14"}},
+    {"map_key":"pb-azul-32","name":"Zona Azul · 32","floor":"planta_baja","bar_key":"Bar Planta Baja","capacity":10,"extra_capacity":2,"base_price_mxn":4500,"map_config":{"x":66,"y":48,"w":6,"h":11,"type":"azul","label":"32"}},
+    {"map_key":"pb-azul-33","name":"Zona Azul · 33","floor":"planta_baja","bar_key":"Bar Planta Baja","capacity":10,"extra_capacity":2,"base_price_mxn":4500,"map_config":{"x":66,"y":61,"w":6,"h":11,"type":"azul","label":"33"}},
+    {"map_key":"pb-diamante-34","name":"Zona Diamante · 34","floor":"planta_baja","bar_key":"Bar Planta Baja","capacity":6,"extra_capacity":2,"base_price_mxn":5000,"map_config":{"x":34,"y":54,"w":10,"h":10,"type":"diamante","label":"34"}},
+    {"map_key":"pb-diamante-35","name":"Zona Diamante · 35","floor":"planta_baja","bar_key":"Bar Planta Baja","capacity":6,"extra_capacity":2,"base_price_mxn":5000,"map_config":{"x":34,"y":65,"w":10,"h":10,"type":"diamante","label":"35"}},
+    {"map_key":"pb-diamante-36","name":"Zona Diamante · 36","floor":"planta_baja","bar_key":"Bar Planta Baja","capacity":6,"extra_capacity":2,"base_price_mxn":5000,"map_config":{"x":40,"y":79,"w":9,"h":7,"type":"diamante","label":"36"}},
+    {"map_key":"pb-diamante-37","name":"Zona Diamante · 37","floor":"planta_baja","bar_key":"Bar Planta Baja","capacity":6,"extra_capacity":2,"base_price_mxn":5000,"map_config":{"x":50,"y":79,"w":9,"h":7,"type":"diamante","label":"37"}},
+    {"map_key":"pb-diamante-38","name":"Zona Diamante · 38","floor":"planta_baja","bar_key":"Bar Planta Baja","capacity":6,"extra_capacity":2,"base_price_mxn":5000,"map_config":{"x":60,"y":79,"w":9,"h":7,"type":"diamante","label":"38"}},
+    {"map_key":"pb-vip-16","name":"VIP Elevado · 16","floor":"planta_baja","bar_key":"Bar Planta Baja","capacity":8,"extra_capacity":2,"base_price_mxn":6000,"map_config":{"x":40,"y":86,"w":9,"h":15,"type":"vip","label":"16"}},
+    {"map_key":"pb-vip-17","name":"VIP Elevado · 17","floor":"planta_baja","bar_key":"Bar Planta Baja","capacity":8,"extra_capacity":2,"base_price_mxn":6000,"map_config":{"x":51,"y":86,"w":9,"h":15,"type":"vip","label":"17"}},
+    {"map_key":"pb-vip-18","name":"VIP Elevado · 18","floor":"planta_baja","bar_key":"Bar Planta Baja","capacity":8,"extra_capacity":2,"base_price_mxn":6000,"map_config":{"x":61,"y":86,"w":9,"h":15,"type":"vip","label":"18"}},
+    {"map_key":"pa-rosa-42","name":"Zona Rosa · 42","floor":"planta_alta","bar_key":"Bar Planta Alta","capacity":6,"extra_capacity":2,"base_price_mxn":4000,"map_config":{"x":18,"y":18,"w":8,"h":15,"type":"rosa","label":"42"}},
+    {"map_key":"pa-rosa-43","name":"Zona Rosa · 43","floor":"planta_alta","bar_key":"Bar Planta Alta","capacity":6,"extra_capacity":2,"base_price_mxn":4000,"map_config":{"x":18,"y":35,"w":8,"h":15,"type":"rosa","label":"43"}},
+    {"map_key":"pa-rosa-44","name":"Zona Rosa · 44","floor":"planta_alta","bar_key":"Bar Planta Alta","capacity":6,"extra_capacity":2,"base_price_mxn":4000,"map_config":{"x":18,"y":52,"w":8,"h":15,"type":"rosa","label":"44"}},
+    {"map_key":"pa-rosa-45","name":"Zona Rosa · 45","floor":"planta_alta","bar_key":"Bar Planta Alta","capacity":6,"extra_capacity":2,"base_price_mxn":4000,"map_config":{"x":18,"y":69,"w":8,"h":15,"type":"rosa","label":"45"}},
+    {"map_key":"pa-doble-vip-46","name":"Zona Doble Diamante VIP · 46","floor":"planta_alta","bar_key":"Bar Planta Alta","capacity":10,"extra_capacity":2,"base_price_mxn":8000,"map_config":{"x":57,"y":20,"w":9,"h":11,"type":"doble-vip","label":"46"}},
+    {"map_key":"pa-doble-47","name":"Zona Doble Diamante · 47","floor":"planta_alta","bar_key":"Bar Planta Alta","capacity":6,"extra_capacity":2,"base_price_mxn":6000,"map_config":{"x":57,"y":33,"w":9,"h":14,"type":"doble","label":"47"}},
+    {"map_key":"pa-doble-48","name":"Zona Doble Diamante · 48","floor":"planta_alta","bar_key":"Bar Planta Alta","capacity":6,"extra_capacity":2,"base_price_mxn":6000,"map_config":{"x":57,"y":49,"w":9,"h":14,"type":"doble","label":"48"}},
+    {"map_key":"pa-doble-49","name":"Zona Doble Diamante · 49","floor":"planta_alta","bar_key":"Bar Planta Alta","capacity":6,"extra_capacity":2,"base_price_mxn":6000,"map_config":{"x":57,"y":65,"w":9,"h":14,"type":"doble","label":"49"}},
+    {"map_key":"pa-doble-50","name":"Zona Doble Diamante · 50","floor":"planta_alta","bar_key":"Bar Planta Alta","capacity":6,"extra_capacity":2,"base_price_mxn":6000,"map_config":{"x":57,"y":81,"w":9,"h":14,"type":"doble","label":"50"}},
+    {"map_key":"pa-celebration-51","name":"Celebration Suite · 51","floor":"planta_alta","bar_key":"Bar Planta Alta","capacity":8,"extra_capacity":2,"base_price_mxn":8000,"map_config":{"x":42,"y":90,"w":14,"h":10,"type":"celebration","label":"51"}},
+    {"map_key":"pb-pista","name":"Punto de entrega · Pista planta baja","floor":"planta_baja","bar_key":"Bar Planta Baja","capacity":999,"extra_capacity":0,"base_price_mxn":0,"reservable":false,"map_config":{"x":43,"y":35,"w":27,"h":40,"type":"delivery","label":"PISTA"}},
+    {"map_key":"pa-pista","name":"Punto de entrega · Pista planta alta","floor":"planta_alta","bar_key":"Bar Planta Alta","capacity":999,"extra_capacity":0,"base_price_mxn":0,"reservable":false,"map_config":{"x":28,"y":20,"w":27,"h":65,"type":"delivery","label":"PISTA"}}
+  ]
+}
